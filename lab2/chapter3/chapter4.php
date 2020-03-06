@@ -1,7 +1,4 @@
-/////////////////////
-//example 4-1 pg. 64
-/////////////////////
-
+<?php 
 echo "a: [".(20>9)."]<br>"; //true statement, so will evaluate to 1
 //"a: [" is one string, "]<br>" is another string
 echo "b: [ ".(5== 6)."] <br>"; //false statement, so will evaluate to null/nothing
@@ -180,13 +177,13 @@ for ($count = 0; $count <= 12; ++$count)
 	
 }
 
-$s=0
+$s=0;
 while($s<5)
 {
 	echo "x:".$s;
 	$s++;
 }
-
+?>
 
 
 

@@ -1,3 +1,4 @@
+<?php
 $paper[] = "copier";
 $paper[] = "inkjet";
 $paper[] = "laser";
@@ -34,3 +35,4 @@ $temp = explode(' ', "PHP is a server-side scripting language designed primarily
 print_r($temp);
 
 echo "<br>";
+?>

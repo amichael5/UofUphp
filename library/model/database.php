@@ -4,8 +4,8 @@
    mb_http_input('UTF-8');
    mb_regex_encoding('UTF-8');
    $dsn = 'mysql:host=localhost;dbname=book_loan';
-   $username = 'phpuser';
-   $password = 'pa55word';
+   $username = 'root';
+   $password = 'root';
   
    try {
        $db = new PDO($dsn, $username, $password);

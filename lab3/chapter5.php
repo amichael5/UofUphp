@@ -1,3 +1,4 @@
+<?php
 echo fix_names("WILLIAM", "henry", "gaTES");
 
 function fix_names($n1, $n2, $n3){
@@ -88,3 +89,4 @@ $object->phone = '232 3232 232';
 $object->email = 'fred@blogs.com';
 
 $object->display();
+?>

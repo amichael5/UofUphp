@@ -10,7 +10,7 @@
 <!-- the head section -->
 <head>
   <title>The Book Loan System</title>
-  <link rel="stylesheet" type="text/css" href="/assign6/styles.css">
+  <link rel="stylesheet" type="text/css" href="//styles.css">
 </head>
 
 <!-- the body section -->

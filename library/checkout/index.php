@@ -12,7 +12,7 @@ if ($action == NULL) {
 }
 
 if ($action == 'list_available_books') {
-   header('location:/assign6/book/index.php?action=list_available_books');
+   header('location://book/index.php?action=list_available_books');
 }
 else if ($action == 'checkout') {
    $book_id = filter_input(INPUT_GET,'BookId');

@@ -6,9 +6,7 @@
 */
 
 
-/////////////////////
-//PHP Literals
-/////////////////////
+<?php
 'Chewbacca';
 3.4;
 
@@ -52,3 +50,4 @@ echo '<br>';
 
 $month = "March";
 if($month == "March") echo "It's springtime";
+?>
