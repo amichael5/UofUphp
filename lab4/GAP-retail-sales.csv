@@ -1,0 +1,2000 @@
+recency,sales,zip_code,newbie,channel,segment,product_category,age,frequency,gender
+7,94.96,Rural,0,Brick&Mortar,Single,3,52,3,female
+6,599.86,Rural,1,Brick&Mortar,Married,2,21,1,female
+10,133.24,Surburban,1,Web,Single,4,41,7,female
+2,228.98,Surburban,0,Brick&Mortar,Single,2,26,7,female
+9,252.5,Urban,0,Brick&Mortar,Single,6,24,2,male
+3,105.4,Rural,1,Brick&Mortar,Married,3,45,3,female
+6,177.56,Rural,1,Brick&Mortar,Married,1,30,7,male
+1,339.06,Urban,0,Web,Married,6,44,3,male
+1,703.43,Urban,1,Social,Married,3,24,2,female
+4,826.07,Surburban,1,Web,Single,6,46,7,female
+3,29.99,Surburban,1,Brick&Mortar,Married,3,40,8,male
+4,54.88,Surburban,1,Brick&Mortar,Single,2,23,1,female
+2,91.31,Urban,1,Web,Married with children,2,29,8,male
+10,34.56,Rural,0,Brick&Mortar,Married with children,4,37,3,female
+7,97.94,Surburban,1,Brick&Mortar,Single,3,35,6,female
+10,29.99,Urban,0,Brick&Mortar,Single,3,26,1,male
+9,147.87,Surburban,1,Web,Married with children,4,35,4,male
+1,728.6,Urban,1,Web,Single,1,20,1,both
+6,29.99,Urban,0,Web,Married,4,36,9,female
+10,128.22,Rural,1,Brick&Mortar,Married,1,29,10,male
+10,41.58,Surburban,1,Web,Single,2,20,9,female
+5,29.99,Urban,0,Web,Married with children,5,54,9,female
+11,589.51,Urban,1,Brick&Mortar,Married,4,34,7,female
+9,29.99,Surburban,1,Web,Single,4,34,1,female
+1,29.99,Surburban,1,Brick&Mortar,Married,4,36,3,female
+11,171.71,Urban,0,Web,Married with children,5,29,6,male
+10,497.84,Urban,0,Social,Married,5,55,5,both
+10,283.5,Surburban,0,Brick&Mortar,Married with children,1,48,6,male
+12,30.73,Urban,1,Web,Married,2,42,5,male
+3,32.55,Urban,0,Brick&Mortar,Married with children,2,18,2,female
+1,245.09,Rural,1,Web,Married with children,2,39,10,female
+2,130.01,Surburban,1,Web,Married,6,45,3,female
+8,189.34,Surburban,0,Web,Single,2,22,6,female
+4,114.87,Rural,1,Web,Single,6,49,5,female
+1,434.03,Surburban,0,Web,Married with children,1,21,2,both
+8,530.42,Surburban,1,Brick&Mortar,Married with children,2,22,5,female
+9,29.99,Urban,1,Web,Married,4,34,8,male
+2,29.99,Surburban,1,Web,Married,3,43,10,male
+2,258.95,Urban,0,Social,Single,4,42,3,male
+2,1442.56,Surburban,1,Web,Married,4,37,1,female
+4,408.44,Rural,0,Brick&Mortar,Married with children,1,19,2,male
+11,83.03,Urban,1,Web,Married with children,4,39,1,male
+9,41.97,Urban,0,Web,Single,4,43,10,female
+2,32.18,Surburban,1,Web,Married with children,3,35,9,male
+7,223.97,Surburban,1,Brick&Mortar,Married,6,52,4,female
+5,51.8,Urban,1,Web,Married,1,26,8,female
+9,84.33,Surburban,1,Web,Single,2,18,6,male
+10,29.99,Surburban,0,Web,Married,4,40,6,female
+2,125.14,Surburban,1,Brick&Mortar,Married with children,4,32,10,male
+7,474.02,Urban,0,Web,Single,2,24,4,both
+6,199.25,Surburban,1,Brick&Mortar,Single,5,19,1,female
+1,372.74,Surburban,0,Brick&Mortar,Single,2,30,6,female
+1,29.99,Surburban,1,Web,Married with children,2,23,6,female
+4,258.31,Urban,0,Brick&Mortar,Married with children,2,20,8,both
+8,87.48,Urban,1,Web,Single,1,22,6,female
+12,30.74,Urban,0,Brick&Mortar,Single,2,24,10,female
+8,208.35,Surburban,0,Brick&Mortar,Married with children,6,22,3,female
+10,214.61,Urban,1,Social,Married with children,3,34,2,female
+8,29.99,Urban,1,Brick&Mortar,Married,2,37,3,female
+8,221.29,Urban,0,Brick&Mortar,Single,3,36,2,male
+5,349.03,Rural,0,Brick&Mortar,Married with children,3,34,7,male
+6,243.04,Urban,0,Brick&Mortar,Single,6,49,8,male
+1,288.64,Urban,1,Web,Married with children,6,36,10,female
+11,78.29,Urban,0,Web,Married,5,45,5,male
+1,226.28,Rural,0,Social,Married,5,37,9,male
+7,36,Surburban,1,Web,Single,4,25,7,male
+7,338.29,Surburban,0,Brick&Mortar,Married with children,4,31,1,male
+5,81.9,Rural,0,Brick&Mortar,Married,1,39,1,male
+1,34.19,Surburban,1,Web,Single,4,43,7,female
+3,364.23,Urban,0,Social,Married,5,52,4,male
+1,414,Urban,1,Brick&Mortar,Married with children,6,26,3,both
+8,141.92,Surburban,0,Web,Single,4,38,9,male
+2,596.1,Surburban,1,Social,Married with children,2,20,1,female
+3,317.52,Surburban,0,Brick&Mortar,Single,4,43,10,female
+3,383.34,Urban,0,Web,Married,2,18,9,male
+5,323.49,Surburban,0,Web,Married with children,1,19,9,female
+1,229.78,Urban,0,Web,Married,2,20,6,male
+10,165.26,Surburban,1,Brick&Mortar,Married with children,3,37,9,male
+11,254.91,Surburban,0,Web,Married with children,4,35,4,both
+11,123.78,Urban,1,Web,Single,1,27,4,female
+7,104.65,Urban,0,Web,Single,2,21,3,male
+1,123.38,Surburban,1,Web,Married,6,44,7,male
+4,60.82,Surburban,1,Brick&Mortar,Married,4,25,7,male
+1,29.99,Rural,1,Brick&Mortar,Single,5,54,3,male
+9,340.24,Surburban,0,Brick&Mortar,Single,4,34,6,female
+6,441.59,Rural,0,Social,Married with children,4,43,5,male
+5,156.06,Rural,1,Web,Married,4,27,8,female
+4,102.49,Surburban,0,Brick&Mortar,Married,2,26,3,female
+2,106.23,Urban,1,Web,Single,1,27,9,male
+11,181.27,Surburban,0,Brick&Mortar,Married,1,20,9,male
+3,264.43,Rural,1,Brick&Mortar,Single,3,36,8,male
+9,82.96,Surburban,1,Brick&Mortar,Single,5,54,8,female
+4,69.1,Urban,0,Brick&Mortar,Married,2,19,4,male
+1,173.59,Rural,0,Brick&Mortar,Married with children,2,55,3,male
+3,726.29,Rural,1,Social,Married,6,55,1,female
+3,141.85,Rural,0,Brick&Mortar,Married,2,27,6,female
+5,29.99,Urban,1,Brick&Mortar,Married,3,39,9,male
+10,210.59,Urban,1,Brick&Mortar,Single,3,20,6,male
+8,389.82,Surburban,1,Web,Married with children,5,19,7,both
+1,177.92,Rural,0,Web,Married with children,6,47,7,male
+1,782.02,Urban,1,Social,Married with children,6,45,9,male
+11,377.57,Urban,0,Brick&Mortar,Married with children,1,50,1,both
+10,405.34,Rural,0,Social,Married with children,3,38,4,female
+10,29.99,Surburban,0,Web,Married with children,2,23,7,female
+6,154.05,Surburban,0,Brick&Mortar,Married,3,36,4,male
+10,30.56,Urban,0,Web,Married with children,2,36,3,female
+11,344.89,Surburban,0,Brick&Mortar,Single,4,45,3,male
+9,57.49,Rural,1,Web,Married with children,2,28,2,female
+9,197.99,Surburban,1,Brick&Mortar,Married with children,5,49,7,male
+5,131.66,Surburban,0,Web,Single,5,30,7,female
+9,168.84,Surburban,1,Web,Married with children,4,41,3,male
+11,81.83,Urban,1,Brick&Mortar,Single,1,28,10,male
+2,406.96,Surburban,1,Web,Married,1,30,4,male
+5,315.22,Surburban,0,Web,Married,2,33,8,female
+9,711.71,Surburban,1,Brick&Mortar,Married with children,1,25,2,female
+3,279.82,Surburban,1,Web,Married with children,3,31,4,male
+4,41.71,Surburban,1,Brick&Mortar,Married with children,6,42,3,female
+1,151.12,Urban,1,Brick&Mortar,Married with children,5,23,5,female
+2,122.21,Urban,1,Web,Married with children,5,54,9,female
+11,213.08,Surburban,1,Web,Single,5,53,6,female
+4,56.88,Surburban,1,Brick&Mortar,Married with children,5,51,1,female
+2,71.09,Surburban,1,Web,Single,3,35,7,female
+1,227.73,Surburban,0,Social,Married with children,1,19,2,male
+10,165.78,Rural,0,Brick&Mortar,Single,6,50,3,female
+9,120.7,Rural,1,Brick&Mortar,Married,5,55,3,male
+7,153.86,Urban,0,Web,Single,4,42,7,female
+5,82.75,Rural,0,Web,Married with children,4,24,4,male
+5,406.35,Urban,0,Social,Married,2,18,9,male
+5,224.23,Surburban,0,Social,Single,6,48,10,female
+9,34.7,Surburban,1,Web,Married with children,3,40,1,male
+6,114.72,Surburban,1,Brick&Mortar,Married,6,23,8,female
+10,106.7,Surburban,0,Web,Married,1,23,3,male
+2,460.09,Surburban,0,Brick&Mortar,Single,6,48,9,male
+2,414.79,Surburban,0,Web,Married,5,51,3,male
+8,93.77,Urban,1,Brick&Mortar,Single,4,41,6,female
+3,274.78,Urban,0,Brick&Mortar,Single,1,30,9,female
+6,109.9,Urban,0,Brick&Mortar,Single,2,27,7,female
+5,509.58,Urban,1,Brick&Mortar,Single,5,55,1,both
+8,29.99,Urban,1,Brick&Mortar,Married with children,2,36,5,female
+4,837.47,Surburban,1,Social,Married,3,23,1,both
+2,221.99,Urban,0,Social,Married,5,47,10,male
+7,29.99,Urban,0,Web,Single,2,38,3,male
+1,46.6,Urban,0,Web,Married with children,2,32,7,female
+10,287.14,Rural,0,Web,Single,4,32,3,female
+2,543.29,Urban,1,Social,Single,1,28,3,both
+9,103.17,Urban,0,Web,Married,6,44,7,female
+2,518.24,Surburban,1,Brick&Mortar,Married with children,5,45,3,female
+6,128.46,Urban,1,Brick&Mortar,Married,2,23,8,male
+10,57.26,Rural,0,Web,Married,5,54,10,female
+2,270.33,Urban,0,Web,Single,5,45,8,female
+8,58.4,Rural,0,Brick&Mortar,Married,3,40,7,male
+10,29.99,Surburban,1,Web,Single,4,36,8,male
+2,688.53,Urban,1,Social,Single,1,19,7,both
+7,90.36,Surburban,0,Web,Single,5,47,5,female
+3,927.4,Surburban,1,Web,Married with children,3,42,2,both
+10,296.44,Urban,0,Brick&Mortar,Married,4,37,4,female
+1,848.51,Urban,1,Social,Single,1,20,6,female
+4,390.96,Rural,0,Brick&Mortar,Married,2,30,9,male
+10,219.23,Rural,0,Web,Married,6,47,5,male
+12,29.99,Urban,0,Web,Married with children,4,38,7,female
+1,680.37,Surburban,1,Social,Married with children,6,55,6,male
+7,82.01,Urban,1,Brick&Mortar,Married with children,6,31,2,male
+11,29.99,Surburban,0,Brick&Mortar,Single,5,52,5,male
+11,99.05,Urban,1,Brick&Mortar,Single,3,42,6,male
+6,146.13,Urban,1,Brick&Mortar,Married,1,38,6,female
+2,41.75,Urban,0,Brick&Mortar,Married,5,52,10,male
+3,252.01,Urban,1,Brick&Mortar,Married,4,39,10,male
+10,65.02,Urban,0,Web,Single,1,52,7,male
+6,159.27,Urban,0,Web,Married with children,1,25,10,female
+1,267.61,Urban,0,Brick&Mortar,Single,5,55,1,male
+4,204.52,Surburban,0,Social,Married,1,29,4,male
+3,108.11,Surburban,1,Web,Married with children,6,55,5,female
+4,115.15,Urban,0,Web,Single,2,18,4,female
+1,491.22,Rural,1,Web,Single,6,45,7,female
+10,180.68,Rural,1,Web,Single,2,30,2,female
+10,35.01,Urban,0,Brick&Mortar,Married,5,47,5,female
+2,1247.42,Rural,1,Brick&Mortar,Married with children,4,39,3,female
+9,29.99,Surburban,0,Brick&Mortar,Married,2,18,8,female
+12,29.99,Rural,0,Brick&Mortar,Married,4,34,1,male
+10,45.94,Surburban,1,Web,Married with children,4,35,5,male
+10,64.65,Urban,0,Web,Married,5,49,2,male
+7,29.99,Surburban,1,Brick&Mortar,Single,6,48,10,male
+9,55.03,Surburban,0,Brick&Mortar,Single,4,36,5,male
+11,131.79,Urban,0,Brick&Mortar,Single,3,34,9,female
+10,51.8,Surburban,1,Brick&Mortar,Single,1,27,10,male
+7,107.83,Urban,1,Web,Married with children,3,38,9,male
+6,211.69,Urban,1,Social,Married with children,6,51,3,female
+1,422.03,Surburban,0,Web,Single,6,46,9,female
+4,359.43,Urban,0,Social,Single,4,40,4,male
+2,436.15,Urban,0,Brick&Mortar,Married,2,20,6,male
+1,695.85,Urban,1,Social,Married,4,47,1,female
+2,453.2,Urban,0,Web,Single,3,45,6,female
+9,289.45,Surburban,0,Web,Married,5,19,5,male
+2,297.24,Urban,0,Brick&Mortar,Married with children,3,37,1,male
+10,62.31,Surburban,0,Brick&Mortar,Married,4,34,8,female
+5,700.96,Urban,1,Web,Single,2,39,5,both
+1,71.61,Surburban,0,Web,Married,3,34,7,female
+9,298.54,Urban,0,Brick&Mortar,Single,2,25,2,both
+1,29.99,Urban,0,Web,Single,1,26,4,male
+6,103.38,Urban,1,Web,Married,5,50,4,female
+1,89.59,Surburban,1,Web,Married with children,4,34,7,female
+7,36.59,Rural,0,Web,Single,6,54,8,female
+4,925.23,Urban,1,Social,Single,4,37,7,both
+4,347.48,Urban,1,Web,Married,5,53,10,male
+2,56.11,Rural,1,Brick&Mortar,Single,4,36,4,female
+7,260.26,Surburban,1,Brick&Mortar,Married with children,1,22,9,male
+9,58.35,Surburban,0,Brick&Mortar,Married,3,37,4,female
+3,370.97,Surburban,0,Social,Married,5,47,7,female
+8,286.64,Surburban,1,Brick&Mortar,Married,6,37,3,male
+1,29.99,Surburban,1,Web,Married with children,6,55,3,male
+4,69.57,Surburban,1,Brick&Mortar,Married with children,3,29,3,male
+2,57.28,Urban,1,Web,Married,5,28,3,male
+9,81.23,Rural,1,Brick&Mortar,Married,5,52,6,female
+10,542.46,Surburban,1,Web,Married,1,28,8,male
+5,245.35,Surburban,0,Social,Married,4,32,7,female
+3,498.59,Urban,0,Social,Single,4,25,7,female
+11,52.43,Urban,0,Brick&Mortar,Married,3,34,5,female
+6,580.47,Surburban,1,Web,Married,4,53,6,male
+8,322.72,Rural,0,Web,Married with children,2,20,2,female
+1,29.99,Urban,0,Brick&Mortar,Single,2,25,4,female
+2,81.5,Surburban,1,Web,Married with children,1,20,8,male
+5,446.88,Surburban,0,Brick&Mortar,Married with children,6,53,3,male
+8,34.48,Urban,1,Brick&Mortar,Married with children,2,28,1,male
+7,124.63,Surburban,0,Web,Married,6,33,9,female
+11,327.11,Surburban,0,Brick&Mortar,Married with children,6,49,8,female
+10,52.27,Surburban,1,Web,Married,1,23,8,female
+10,29.99,Surburban,1,Brick&Mortar,Single,5,35,3,female
+4,194.26,Rural,0,Brick&Mortar,Married,4,24,5,female
+1,30.19,Surburban,0,Web,Single,6,46,6,female
+2,693.13,Rural,1,Web,Single,1,20,3,male
+9,49.77,Surburban,1,Web,Single,4,42,9,female
+6,141.94,Urban,1,Brick&Mortar,Single,2,22,2,female
+9,205.33,Urban,1,Brick&Mortar,Married,3,39,4,female
+9,39.24,Urban,0,Brick&Mortar,Married,1,49,10,female
+9,29.99,Urban,1,Brick&Mortar,Married with children,3,31,1,female
+7,223.96,Surburban,0,Social,Married with children,1,37,6,male
+3,43.74,Surburban,0,Web,Single,4,35,8,female
+3,311.56,Urban,0,Social,Married,1,25,3,female
+7,77.04,Rural,0,Web,Married,2,30,7,male
+9,96.88,Urban,0,Brick&Mortar,Married with children,3,38,5,female
+5,265.6,Surburban,0,Web,Single,5,43,2,female
+10,108.08,Urban,1,Brick&Mortar,Married with children,3,42,5,female
+1,493.07,Urban,0,Brick&Mortar,Single,1,27,6,female
+10,206.21,Urban,0,Web,Single,4,38,6,female
+2,231.66,Urban,1,Brick&Mortar,Single,1,21,10,both
+3,73.08,Urban,1,Web,Married with children,6,51,4,male
+6,606.77,Rural,1,Social,Married with children,5,30,7,both
+9,29.99,Surburban,0,Brick&Mortar,Single,5,46,9,female
+3,362,Urban,1,Web,Married,3,43,8,male
+1,353.35,Surburban,0,Web,Married,5,29,9,female
+1,349.47,Surburban,0,Brick&Mortar,Married,1,22,2,female
+3,473.02,Surburban,0,Brick&Mortar,Single,2,25,7,both
+2,93.98,Rural,1,Brick&Mortar,Married,5,25,7,male
+4,29.99,Surburban,1,Brick&Mortar,Married,4,30,4,male
+10,105.99,Urban,1,Web,Married with children,2,27,10,male
+3,180.48,Urban,1,Brick&Mortar,Single,4,39,5,male
+10,144.85,Urban,1,Web,Married with children,5,47,7,male
+2,180.03,Urban,1,Web,Married,5,49,8,female
+6,266.64,Urban,0,Brick&Mortar,Married with children,3,41,10,male
+9,321.9,Rural,0,Web,Married,4,44,1,both
+1,126.79,Urban,0,Brick&Mortar,Single,4,40,2,female
+10,126.69,Urban,1,Web,Single,5,45,5,male
+3,465.75,Surburban,1,Social,Married with children,1,19,8,female
+3,29.99,Urban,1,Web,Married with children,5,48,4,male
+2,53.67,Urban,0,Brick&Mortar,Married with children,6,47,8,male
+6,99.24,Rural,0,Brick&Mortar,Married with children,6,38,4,female
+9,309.06,Surburban,0,Social,Married,3,30,8,male
+8,169.95,Urban,0,Brick&Mortar,Married with children,2,24,4,male
+1,30.64,Rural,0,Web,Single,3,40,7,male
+3,202.36,Urban,1,Web,Married with children,4,42,3,male
+7,325.34,Rural,0,Web,Married with children,2,50,8,both
+3,216.08,Urban,0,Brick&Mortar,Single,2,21,1,female
+4,761.17,Urban,1,Web,Married with children,1,25,10,both
+3,203.63,Rural,0,Social,Married with children,5,35,7,female
+2,340.35,Surburban,0,Brick&Mortar,Married,4,31,1,female
+1,506.71,Urban,1,Web,Married with children,4,51,1,female
+7,319.03,Surburban,1,Brick&Mortar,Married with children,4,32,3,both
+2,89.96,Surburban,1,Web,Single,5,55,3,female
+1,123.39,Surburban,0,Web,Single,6,49,7,female
+1,45.32,Surburban,0,Brick&Mortar,Married,3,40,8,female
+5,997.8,Rural,1,Social,Single,3,39,5,both
+9,65.3,Surburban,0,Brick&Mortar,Single,4,32,8,male
+11,29.99,Surburban,0,Web,Single,6,34,10,male
+1,1150.41,Urban,1,Web,Single,1,27,2,female
+3,156.07,Surburban,0,Web,Single,1,19,3,female
+7,176.75,Urban,0,Web,Married,4,39,1,female
+6,320.35,Surburban,0,Brick&Mortar,Married,1,30,9,male
+2,135.33,Surburban,1,Web,Married,3,41,5,female
+1,619.25,Urban,1,Web,Single,1,20,3,male
+2,136.94,Surburban,1,Brick&Mortar,Married with children,5,53,4,female
+8,164.17,Rural,1,Web,Married with children,4,28,5,male
+9,264.74,Urban,0,Brick&Mortar,Married with children,4,43,5,male
+9,294.17,Urban,0,Social,Married with children,1,25,9,male
+10,35.54,Rural,1,Web,Married with children,2,34,6,female
+1,621.3,Rural,1,Web,Single,6,44,7,female
+3,114.11,Surburban,1,Brick&Mortar,Married,1,52,5,male
+3,29.99,Urban,0,Brick&Mortar,Married with children,6,54,2,female
+9,45.39,Rural,0,Web,Single,4,28,9,female
+1,1030.85,Rural,1,Brick&Mortar,Single,2,25,6,male
+1,396.6,Surburban,1,Brick&Mortar,Married with children,1,28,5,female
+10,138.84,Urban,0,Web,Single,1,23,8,male
+5,29.99,Surburban,0,Brick&Mortar,Single,4,39,4,male
+7,247.5,Urban,1,Web,Single,2,28,2,female
+9,88.7,Urban,1,Brick&Mortar,Married,5,47,9,male
+9,193.19,Rural,1,Web,Married,3,40,6,female
+6,42.92,Surburban,0,Brick&Mortar,Married,3,55,3,male
+1,526.83,Urban,1,Web,Single,5,49,8,female
+8,35.39,Surburban,0,Brick&Mortar,Single,2,28,2,male
+5,360.34,Surburban,0,Web,Married,5,47,1,female
+5,254.83,Urban,0,Web,Married,2,19,10,male
+1,113.84,Urban,1,Brick&Mortar,Married,5,44,2,male
+4,127.57,Urban,0,Web,Married with children,5,55,10,female
+10,170.15,Rural,0,Web,Married with children,2,46,8,male
+3,46,Urban,0,Brick&Mortar,Married with children,4,35,6,female
+12,184.48,Urban,1,Brick&Mortar,Married,6,52,2,male
+4,33.18,Urban,0,Web,Single,1,25,10,male
+4,391.1,Surburban,0,Brick&Mortar,Single,4,41,10,male
+6,140.17,Urban,0,Brick&Mortar,Single,3,36,4,male
+5,734.79,Surburban,1,Web,Married with children,3,43,7,female
+3,590.57,Urban,1,Social,Married with children,4,31,7,female
+2,67.77,Urban,1,Web,Married,4,29,4,male
+10,434.98,Surburban,1,Social,Single,4,32,9,female
+1,125.45,Urban,0,Web,Married,6,30,9,female
+7,267.93,Surburban,0,Brick&Mortar,Married with children,3,32,1,male
+3,479.97,Urban,0,Social,Single,1,25,2,male
+10,154.36,Surburban,0,Brick&Mortar,Married with children,2,30,1,male
+1,356.57,Surburban,0,Web,Single,5,51,3,female
+1,537.6,Urban,1,Brick&Mortar,Married,5,29,8,male
+1,1257.54,Urban,1,Social,Married,1,19,6,both
+11,29.99,Surburban,1,Web,Married,3,41,5,male
+8,342.11,Rural,0,Brick&Mortar,Single,4,34,1,female
+2,798.28,Urban,1,Social,Single,6,52,8,male
+5,141.07,Surburban,0,Brick&Mortar,Married with children,3,32,1,female
+1,40.07,Urban,1,Web,Married,2,34,10,male
+4,359.5,Rural,0,Web,Married,2,24,2,female
+10,29.99,Surburban,0,Brick&Mortar,Single,1,28,6,male
+1,156.54,Urban,1,Web,Married,4,31,10,male
+4,318.75,Urban,0,Brick&Mortar,Married with children,1,19,2,female
+6,328.32,Urban,1,Web,Single,4,36,1,male
+9,435.2,Urban,0,Social,Married,3,32,4,female
+1,325.37,Urban,0,Web,Single,2,32,4,female
+7,60.95,Rural,0,Brick&Mortar,Married,1,31,9,male
+7,74.56,Surburban,1,Brick&Mortar,Married with children,6,54,8,male
+4,170.52,Urban,1,Web,Single,3,33,9,male
+9,153.92,Surburban,0,Web,Married with children,5,49,1,male
+10,269.28,Rural,0,Web,Married,3,39,4,female
+4,29.99,Urban,0,Brick&Mortar,Married,5,47,6,male
+12,205.35,Surburban,0,Brick&Mortar,Married with children,5,31,1,male
+4,504.4,Surburban,1,Brick&Mortar,Married,6,52,7,female
+10,173.67,Surburban,0,Brick&Mortar,Single,3,37,9,female
+6,142.99,Urban,1,Web,Married with children,5,44,1,male
+9,29.99,Urban,1,Brick&Mortar,Married,1,22,7,female
+1,148.64,Surburban,1,Brick&Mortar,Married,6,52,4,male
+11,392.35,Urban,0,Brick&Mortar,Married,1,29,10,male
+2,272.14,Urban,0,Web,Married,5,45,9,male
+2,467.73,Urban,0,Web,Single,1,18,6,female
+2,1444.25,Surburban,1,Brick&Mortar,Married with children,2,18,8,female
+7,108.46,Surburban,0,Web,Married,2,29,6,female
+3,490.23,Urban,0,Web,Married with children,6,52,5,male
+6,305.68,Urban,0,Web,Married,3,41,7,female
+7,29.99,Rural,1,Brick&Mortar,Married,3,34,2,female
+7,610.53,Urban,1,Web,Married with children,4,37,10,female
+7,172.21,Surburban,1,Web,Married with children,4,23,4,female
+1,108.77,Rural,0,Web,Married with children,3,42,4,female
+3,61.33,Surburban,1,Brick&Mortar,Married,1,21,6,male
+8,224.03,Surburban,0,Brick&Mortar,Married with children,6,46,10,male
+5,370.28,Surburban,0,Brick&Mortar,Married with children,6,48,10,both
+2,712.53,Surburban,1,Brick&Mortar,Married,3,40,5,male
+9,633.16,Urban,1,Social,Married,3,38,10,both
+12,45.44,Urban,0,Brick&Mortar,Married,6,51,1,female
+1,113.8,Surburban,1,Web,Single,5,44,6,male
+12,90.92,Urban,1,Web,Married with children,6,49,7,male
+1,379.93,Urban,0,Brick&Mortar,Married with children,1,38,5,female
+4,29.99,Urban,0,Brick&Mortar,Single,5,45,1,male
+1,115.58,Surburban,0,Web,Married with children,5,46,5,female
+9,315.49,Surburban,1,Brick&Mortar,Single,4,26,4,both
+11,87.24,Surburban,0,Brick&Mortar,Married with children,6,19,6,male
+11,264.57,Urban,0,Brick&Mortar,Married with children,6,28,7,male
+7,275.07,Urban,0,Brick&Mortar,Married,6,48,4,male
+5,29.99,Surburban,1,Brick&Mortar,Single,2,29,7,female
+5,1158.65,Surburban,1,Social,Married,4,34,9,both
+3,748.86,Urban,1,Web,Married with children,2,20,6,male
+10,37.31,Surburban,0,Brick&Mortar,Married,6,21,3,female
+11,278.19,Urban,0,Web,Married with children,2,23,8,both
+6,288.84,Urban,1,Brick&Mortar,Married with children,5,46,7,female
+9,90.05,Surburban,1,Brick&Mortar,Married,2,19,7,male
+10,155.94,Urban,0,Brick&Mortar,Married,2,19,7,male
+10,83.61,Rural,0,Web,Married,4,43,10,male
+5,487.03,Urban,0,Brick&Mortar,Married,1,18,9,male
+10,81.01,Urban,1,Web,Single,4,32,9,female
+4,63.55,Urban,0,Brick&Mortar,Married with children,5,42,2,male
+2,456.8,Urban,0,Web,Single,1,28,7,male
+6,149.69,Surburban,0,Web,Married with children,1,26,2,male
+2,65.56,Urban,1,Brick&Mortar,Single,3,40,8,female
+6,103.91,Surburban,1,Web,Single,6,19,6,male
+11,176.18,Surburban,1,Brick&Mortar,Married with children,4,33,1,female
+6,208.76,Surburban,1,Brick&Mortar,Married with children,3,24,1,male
+3,907.28,Surburban,1,Web,Single,1,45,2,female
+1,32.8,Surburban,0,Web,Married,2,37,9,male
+9,148.22,Surburban,0,Web,Married,5,22,5,female
+10,76.74,Surburban,0,Web,Married,6,50,10,male
+3,227.16,Urban,1,Web,Married,3,23,2,male
+4,336.29,Surburban,0,Brick&Mortar,Single,4,27,6,female
+7,29.99,Surburban,0,Brick&Mortar,Married,5,49,7,male
+1,668.07,Urban,1,Social,Single,3,34,9,both
+10,29.99,Surburban,0,Brick&Mortar,Married,1,24,5,female
+5,228.44,Urban,0,Brick&Mortar,Married,5,47,9,male
+6,387.99,Surburban,0,Web,Married with children,6,47,5,both
+12,32.84,Surburban,0,Web,Single,4,40,7,male
+7,80.06,Surburban,1,Web,Single,4,26,6,female
+10,337.34,Surburban,0,Web,Married,1,30,10,female
+5,29.99,Rural,0,Brick&Mortar,Married with children,4,36,3,female
+7,64.76,Surburban,1,Web,Married with children,6,45,8,female
+10,162.54,Rural,1,Web,Married with children,2,28,4,male
+10,29.99,Surburban,1,Web,Single,1,47,2,male
+10,143.61,Rural,1,Web,Married with children,6,55,3,male
+4,195.25,Surburban,0,Web,Single,5,51,3,female
+1,29.99,Surburban,0,Web,Married with children,5,48,6,male
+8,575.62,Urban,1,Social,Married with children,6,44,2,both
+2,252.69,Surburban,0,Brick&Mortar,Married with children,6,31,2,male
+6,318.46,Urban,1,Web,Married with children,2,18,5,female
+4,67.91,Surburban,0,Brick&Mortar,Married,5,46,5,female
+1,294.86,Surburban,1,Web,Married,6,40,3,female
+1,109.46,Urban,1,Web,Married with children,5,44,3,female
+1,490.82,Surburban,1,Web,Married,6,45,5,male
+1,276.23,Urban,0,Brick&Mortar,Married with children,1,51,9,both
+4,32.16,Surburban,1,Brick&Mortar,Married with children,6,52,7,male
+5,222.9,Surburban,1,Brick&Mortar,Single,5,55,7,both
+1,170.31,Urban,0,Web,Single,6,46,1,female
+10,30.68,Surburban,0,Web,Single,1,19,2,female
+11,29.99,Surburban,0,Web,Married with children,2,25,5,female
+2,171.1,Urban,0,Web,Married with children,6,47,9,female
+10,29.99,Rural,0,Web,Married,3,36,7,male
+2,472.28,Rural,0,Web,Married with children,5,44,3,both
+3,235.69,Surburban,0,Web,Married with children,4,33,5,female
+10,57.83,Surburban,1,Web,Married,3,41,5,male
+2,272.66,Urban,0,Social,Married with children,2,22,4,female
+8,78.46,Urban,1,Web,Married with children,1,28,8,female
+11,128.9,Surburban,1,Web,Married with children,2,22,4,female
+3,583.97,Surburban,1,Brick&Mortar,Married,1,20,1,both
+8,270.71,Surburban,1,Web,Single,3,39,10,female
+10,244.61,Urban,0,Social,Married,2,21,10,female
+11,195.89,Urban,0,Brick&Mortar,Single,1,20,1,female
+1,443.62,Urban,0,Web,Married with children,4,39,6,female
+9,109.56,Surburban,1,Brick&Mortar,Married,4,49,1,male
+10,68.98,Urban,1,Brick&Mortar,Single,6,54,3,male
+2,1022.76,Surburban,1,Social,Single,5,49,6,male
+11,587.74,Surburban,1,Web,Married,4,34,6,female
+1,221.2,Urban,0,Brick&Mortar,Single,2,30,10,both
+2,589.41,Urban,1,Brick&Mortar,Married with children,4,35,10,female
+9,144.61,Urban,0,Brick&Mortar,Single,3,41,4,male
+1,352.3,Urban,1,Web,Single,1,29,4,male
+6,347.77,Urban,1,Brick&Mortar,Married with children,6,49,1,both
+6,40.15,Surburban,1,Web,Married,2,22,7,female
+10,80.4,Surburban,0,Brick&Mortar,Married with children,2,52,3,female
+5,987.13,Urban,1,Social,Married,4,39,8,both
+6,90.9,Rural,0,Brick&Mortar,Married with children,3,36,5,male
+8,140.42,Rural,1,Brick&Mortar,Married with children,3,37,8,male
+11,129.9,Urban,1,Brick&Mortar,Single,1,28,3,female
+2,216.72,Surburban,0,Brick&Mortar,Married,4,37,3,male
+1,125.43,Urban,1,Web,Married with children,5,54,2,male
+9,127.62,Surburban,1,Brick&Mortar,Married,3,37,2,female
+6,277.23,Rural,1,Brick&Mortar,Married,3,21,9,male
+12,185.8,Urban,0,Web,Married with children,4,45,7,female
+4,169.62,Rural,1,Web,Married with children,3,53,4,male
+1,84.79,Urban,1,Brick&Mortar,Married,6,52,8,female
+10,157.16,Surburban,0,Web,Single,5,50,10,female
+9,78.6,Urban,0,Brick&Mortar,Married,3,31,9,female
+3,77.34,Urban,1,Brick&Mortar,Single,6,47,10,male
+2,985.22,Urban,1,Social,Married with children,3,28,3,both
+11,107.38,Surburban,0,Web,Single,1,24,3,female
+9,880.11,Rural,1,Web,Married,6,44,5,both
+9,29.99,Urban,1,Brick&Mortar,Single,5,51,6,female
+11,48.29,Surburban,1,Brick&Mortar,Married,1,20,3,female
+11,29.99,Urban,0,Web,Married with children,1,30,1,male
+5,83.72,Rural,0,Web,Single,1,20,4,female
+6,332.22,Urban,0,Web,Married,4,52,2,both
+5,351.4,Rural,0,Web,Married,1,34,6,female
+5,477.98,Urban,0,Web,Married with children,1,23,1,female
+7,543.64,Rural,1,Web,Married,6,42,3,female
+1,200.29,Urban,0,Social,Married,2,26,1,male
+4,75.42,Surburban,0,Brick&Mortar,Married with children,3,35,8,female
+5,187.38,Urban,1,Brick&Mortar,Single,6,48,4,female
+7,72.85,Urban,1,Web,Single,4,36,8,female
+6,29.99,Surburban,0,Brick&Mortar,Single,6,18,4,female
+11,163.72,Surburban,1,Web,Married with children,2,18,1,female
+2,1680.99,Urban,1,Social,Married,1,23,4,female
+11,292.34,Rural,0,Brick&Mortar,Married,1,30,1,male
+3,386.21,Urban,0,Brick&Mortar,Single,1,46,9,both
+11,29.99,Surburban,0,Web,Married,6,41,8,female
+4,275.27,Rural,1,Brick&Mortar,Single,2,23,9,male
+9,236.86,Surburban,1,Social,Married,1,30,2,both
+4,505.07,Surburban,1,Brick&Mortar,Single,4,38,5,female
+1,65.4,Rural,1,Web,Married,2,18,2,male
+11,255.67,Surburban,0,Social,Married,2,51,3,male
+10,246.12,Urban,1,Web,Married with children,1,25,5,male
+2,67.18,Urban,1,Web,Married with children,2,21,10,female
+9,29.99,Surburban,1,Web,Single,3,42,2,male
+2,31.73,Urban,0,Web,Married,5,55,3,male
+2,598.33,Rural,1,Brick&Mortar,Married,5,41,9,both
+7,238.16,Urban,0,Social,Married,1,20,4,male
+7,297.71,Rural,0,Web,Married,2,19,2,female
+2,241.9,Urban,0,Web,Married,2,47,5,female
+1,221.41,Urban,0,Brick&Mortar,Single,6,45,10,male
+8,68.53,Rural,0,Brick&Mortar,Single,5,52,8,male
+12,29.99,Rural,0,Web,Married with children,1,20,7,female
+9,29.99,Surburban,1,Web,Married,2,23,9,male
+1,789.65,Surburban,1,Web,Married with children,6,47,9,female
+7,73.55,Surburban,1,Web,Married,1,24,9,male
+4,790.95,Urban,1,Social,Single,3,20,8,both
+6,69.95,Urban,0,Brick&Mortar,Married,6,23,1,male
+3,43.47,Urban,1,Web,Married with children,1,29,8,female
+9,63.38,Urban,1,Web,Married with children,2,31,6,male
+9,211.79,Urban,0,Social,Married with children,2,24,3,female
+3,95.16,Urban,0,Brick&Mortar,Single,4,39,9,male
+10,67.82,Urban,0,Web,Single,2,27,5,male
+1,432.85,Surburban,0,Social,Single,5,45,2,female
+8,174.39,Urban,0,Web,Married with children,3,40,1,male
+1,389.36,Urban,0,Web,Single,1,30,10,female
+5,29.99,Rural,0,Web,Single,6,48,1,male
+1,125.74,Urban,1,Brick&Mortar,Married with children,5,54,9,male
+5,376.61,Urban,0,Web,Married with children,6,33,9,male
+10,103.1,Urban,0,Web,Married with children,1,24,6,female
+2,256.26,Urban,1,Web,Married,4,36,2,male
+3,297.9,Surburban,0,Web,Married with children,2,29,8,both
+2,229.85,Urban,1,Web,Single,5,47,9,both
+8,304.17,Urban,1,Brick&Mortar,Single,1,26,8,male
+5,47.26,Urban,0,Web,Single,6,44,5,female
+2,479.65,Rural,1,Web,Married,3,37,8,male
+1,424.09,Surburban,0,Web,Married with children,2,25,9,male
+2,226.73,Surburban,1,Web,Married,5,45,1,male
+8,138.25,Rural,1,Brick&Mortar,Married,3,34,8,female
+1,796.71,Surburban,1,Brick&Mortar,Single,4,40,6,male
+11,321.3,Urban,0,Social,Married,2,18,9,male
+10,29.99,Surburban,1,Web,Married with children,6,53,8,female
+1,1497.78,Urban,1,Web,Married,6,45,4,female
+5,865.86,Urban,1,Social,Married with children,3,37,4,male
+5,63.15,Surburban,1,Brick&Mortar,Married with children,4,27,9,male
+8,207.84,Rural,1,Brick&Mortar,Single,4,40,2,female
+10,113.05,Rural,1,Brick&Mortar,Married,4,36,3,female
+10,147.5,Urban,0,Web,Married with children,6,49,4,female
+1,223.08,Urban,0,Brick&Mortar,Married with children,6,46,6,female
+7,179.19,Urban,1,Web,Single,3,34,10,male
+7,116.79,Surburban,1,Brick&Mortar,Married,3,23,10,female
+2,875.37,Surburban,1,Social,Married with children,5,20,3,female
+5,563.55,Surburban,1,Brick&Mortar,Married with children,1,26,2,male
+8,29.99,Urban,0,Brick&Mortar,Married with children,5,31,3,female
+4,51.23,Surburban,1,Web,Married with children,2,23,5,male
+2,572.19,Urban,1,Social,Married with children,4,34,1,female
+1,277.07,Rural,0,Web,Single,1,24,5,male
+4,490.12,Urban,0,Brick&Mortar,Married,5,51,4,both
+3,369.06,Surburban,1,Brick&Mortar,Married,4,40,8,male
+5,82.81,Surburban,1,Web,Single,1,25,2,male
+3,29.99,Rural,0,Web,Married with children,1,23,2,female
+1,189.81,Surburban,0,Brick&Mortar,Married,3,42,1,male
+11,29.99,Urban,0,Web,Married,2,26,8,female
+4,549.32,Surburban,1,Social,Married with children,1,28,1,male
+3,981.46,Urban,1,Social,Single,6,45,3,both
+9,29.99,Surburban,1,Web,Married with children,6,53,7,female
+5,47.8,Surburban,0,Web,Married,4,47,6,female
+2,745.27,Rural,1,Web,Married with children,1,37,8,female
+4,29.99,Rural,0,Brick&Mortar,Married,5,53,8,male
+10,131.74,Surburban,0,Brick&Mortar,Married,3,38,10,male
+11,213.1,Surburban,0,Brick&Mortar,Married,2,25,4,male
+5,49.36,Urban,0,Web,Married with children,1,28,2,male
+12,351.06,Urban,0,Web,Married,6,47,10,female
+5,258.86,Rural,1,Brick&Mortar,Married,5,47,1,both
+4,29.99,Urban,1,Web,Single,6,46,6,male
+1,294.09,Surburban,0,Web,Married,3,43,10,female
+2,54.35,Rural,1,Brick&Mortar,Single,5,47,1,male
+11,158.19,Urban,0,Web,Married with children,4,33,8,male
+9,290.47,Urban,0,Brick&Mortar,Married with children,1,25,4,male
+9,196.18,Surburban,1,Web,Single,6,45,2,male
+8,608.48,Urban,1,Social,Married,1,24,8,male
+5,82.11,Rural,1,Brick&Mortar,Married with children,2,21,4,female
+10,42.29,Rural,0,Brick&Mortar,Married with children,1,18,7,male
+4,496.82,Rural,0,Social,Single,1,28,8,both
+1,991.62,Surburban,1,Brick&Mortar,Single,1,22,9,male
+2,196.44,Surburban,0,Web,Single,1,28,4,male
+2,233.93,Surburban,0,Brick&Mortar,Married with children,4,38,3,female
+3,1295.31,Rural,1,Web,Married,2,36,8,both
+11,144.64,Rural,1,Brick&Mortar,Single,6,45,4,female
+3,501.27,Urban,1,Social,Single,2,27,2,male
+5,244.91,Surburban,0,Brick&Mortar,Single,2,29,5,both
+7,234.18,Surburban,0,Web,Married,4,35,10,female
+6,29.99,Surburban,1,Brick&Mortar,Married,1,21,5,male
+4,29.99,Urban,1,Brick&Mortar,Single,2,27,4,male
+4,164.4,Urban,0,Brick&Mortar,Married with children,5,51,7,male
+11,442.29,Surburban,0,Web,Single,3,39,5,male
+10,93.25,Surburban,1,Web,Single,1,23,4,male
+2,29.99,Urban,1,Web,Married,2,25,3,female
+1,272.05,Urban,1,Brick&Mortar,Married with children,1,31,5,both
+3,323.04,Urban,0,Web,Married,2,23,2,female
+7,34.62,Surburban,1,Brick&Mortar,Married,3,25,9,female
+4,29.99,Urban,0,Brick&Mortar,Single,3,55,7,male
+7,77.94,Urban,1,Brick&Mortar,Married with children,2,19,4,male
+1,442.24,Surburban,0,Social,Married,5,47,8,male
+9,29.99,Urban,1,Brick&Mortar,Married with children,6,27,10,male
+2,370.34,Surburban,0,Brick&Mortar,Single,6,32,4,female
+2,683.17,Surburban,1,Social,Single,2,40,3,both
+11,36.06,Urban,0,Web,Married,3,42,4,male
+2,201.76,Urban,0,Web,Single,1,40,7,both
+6,29.99,Surburban,1,Web,Married with children,3,26,5,female
+10,151.42,Surburban,0,Brick&Mortar,Married,3,25,3,male
+7,43.02,Urban,0,Web,Single,2,19,1,male
+4,174.55,Rural,1,Web,Married with children,4,36,10,male
+5,166.78,Surburban,1,Brick&Mortar,Single,2,45,3,male
+9,253.9,Rural,0,Web,Married,6,47,4,male
+6,464.08,Surburban,0,Web,Married,4,39,7,female
+2,29.99,Surburban,1,Brick&Mortar,Married with children,3,40,10,male
+8,178.27,Urban,0,Brick&Mortar,Married with children,6,46,3,female
+5,156.13,Urban,0,Web,Single,6,54,8,male
+8,268.17,Urban,0,Brick&Mortar,Married with children,1,18,1,female
+2,368.12,Surburban,1,Brick&Mortar,Single,3,31,8,male
+3,154.97,Urban,0,Web,Married with children,4,38,3,male
+2,29.99,Rural,1,Web,Single,3,37,8,female
+1,196.34,Surburban,1,Brick&Mortar,Married with children,2,30,2,male
+5,67.46,Urban,1,Brick&Mortar,Single,6,44,10,female
+2,72.68,Urban,1,Web,Single,3,35,9,female
+3,247.92,Surburban,0,Brick&Mortar,Married,4,35,4,male
+3,226.24,Urban,1,Web,Married,1,30,4,both
+1,575.27,Surburban,1,Web,Married,3,38,4,female
+11,295.4,Surburban,0,Brick&Mortar,Married with children,1,27,6,female
+4,32.62,Urban,0,Web,Married with children,4,33,4,male
+2,626.98,Urban,1,Web,Married,1,19,1,male
+1,160.13,Urban,0,Brick&Mortar,Married with children,2,21,1,male
+2,82.06,Urban,0,Web,Married,3,40,8,female
+5,792.07,Urban,1,Social,Single,1,24,9,male
+8,74.38,Surburban,0,Web,Married,5,53,8,female
+5,76.06,Surburban,1,Web,Married,3,43,1,male
+4,390.55,Urban,1,Web,Single,2,41,5,male
+4,315.76,Urban,0,Web,Single,5,51,3,both
+10,29.99,Surburban,1,Brick&Mortar,Single,3,33,4,female
+5,145.87,Surburban,0,Brick&Mortar,Married with children,5,49,1,female
+9,138.87,Urban,1,Brick&Mortar,Married,1,22,2,female
+1,597.75,Surburban,1,Social,Married with children,6,55,1,female
+2,460.63,Surburban,0,Brick&Mortar,Married,2,25,7,male
+8,76.28,Urban,0,Brick&Mortar,Single,6,38,2,male
+1,82.17,Urban,1,Web,Single,2,36,1,male
+9,451.4,Rural,0,Social,Single,4,34,1,female
+11,63.67,Urban,0,Web,Married with children,2,20,1,female
+6,158.02,Urban,0,Web,Married,1,18,5,female
+10,50.37,Urban,0,Brick&Mortar,Married with children,3,41,9,female
+5,29.99,Urban,0,Brick&Mortar,Married with children,2,28,1,male
+10,166.07,Surburban,1,Brick&Mortar,Married,5,51,5,male
+8,29.99,Rural,1,Web,Married,2,53,8,male
+11,203.6,Urban,1,Web,Married with children,1,39,2,male
+1,144.96,Surburban,0,Web,Married,4,32,10,female
+6,871.77,Surburban,1,Social,Married with children,4,39,2,both
+2,293.93,Urban,0,Social,Single,2,30,3,both
+4,504.83,Surburban,1,Brick&Mortar,Single,1,36,6,male
+8,125.37,Surburban,1,Web,Married,1,46,4,female
+5,29.99,Urban,0,Web,Single,2,22,5,female
+10,88.25,Urban,1,Web,Married with children,1,42,5,female
+9,339.13,Rural,0,Web,Single,4,37,7,both
+1,399.6,Surburban,0,Web,Married with children,6,54,3,male
+5,234.42,Urban,0,Web,Married with children,6,50,1,female
+1,29.99,Urban,0,Web,Single,5,55,2,male
+11,56.89,Surburban,0,Web,Married,5,33,2,male
+7,172.9,Surburban,0,Brick&Mortar,Single,1,43,8,male
+8,191.27,Surburban,0,Brick&Mortar,Married with children,1,28,1,female
+7,386.21,Rural,1,Brick&Mortar,Married,4,33,8,both
+12,36.09,Rural,0,Brick&Mortar,Single,4,37,4,male
+1,243.76,Urban,1,Brick&Mortar,Married with children,6,54,1,female
+5,368.58,Urban,0,Social,Married with children,2,25,5,male
+2,280.75,Urban,0,Brick&Mortar,Single,5,55,7,female
+5,587.12,Urban,1,Web,Married,4,42,7,both
+11,166.67,Urban,1,Web,Single,3,38,10,male
+5,354.17,Urban,0,Brick&Mortar,Single,6,46,5,male
+11,95.56,Urban,1,Web,Single,2,36,9,male
+10,29.99,Rural,0,Brick&Mortar,Single,5,31,9,female
+1,262.23,Urban,0,Social,Single,4,39,5,male
+1,139.75,Rural,0,Brick&Mortar,Married,4,37,7,female
+2,270.77,Urban,0,Web,Married with children,1,38,3,female
+1,213.79,Surburban,0,Social,Married with children,5,52,9,female
+9,78.72,Surburban,1,Web,Married with children,1,25,3,female
+12,169.64,Surburban,0,Web,Married,3,53,8,male
+1,239,Surburban,1,Web,Married with children,4,27,2,male
+6,109.7,Surburban,1,Web,Single,6,52,7,male
+1,101.67,Surburban,1,Brick&Mortar,Single,1,41,6,male
+9,29.99,Surburban,0,Web,Married with children,3,50,10,male
+3,238.14,Surburban,0,Web,Married,6,29,7,male
+11,52.08,Urban,0,Web,Married,3,36,1,female
+4,29.99,Urban,0,Web,Married with children,3,44,1,female
+9,192.17,Rural,0,Web,Single,1,19,9,female
+7,358.51,Urban,1,Brick&Mortar,Married with children,6,54,1,male
+11,591.39,Surburban,1,Social,Single,4,43,10,both
+5,29.99,Surburban,0,Web,Married,5,36,8,male
+4,340.78,Rural,1,Brick&Mortar,Married with children,6,54,8,female
+9,625.02,Urban,1,Brick&Mortar,Single,6,49,9,female
+10,50.15,Urban,1,Brick&Mortar,Single,2,18,5,female
+2,29.99,Surburban,1,Web,Married with children,1,31,4,female
+2,369.63,Rural,0,Brick&Mortar,Married with children,2,22,1,male
+6,89.1,Urban,1,Web,Single,5,46,2,male
+10,117.71,Surburban,1,Web,Single,3,32,5,male
+1,108.4,Urban,1,Brick&Mortar,Single,1,19,10,female
+9,396.9,Urban,1,Social,Married,1,24,6,male
+7,202.19,Surburban,1,Web,Married,1,26,8,female
+12,52.69,Surburban,0,Brick&Mortar,Married,5,48,2,male
+11,238.6,Urban,0,Web,Single,1,29,8,male
+10,100.02,Rural,0,Brick&Mortar,Married with children,6,49,10,female
+7,29.99,Urban,1,Web,Married with children,5,45,1,female
+2,163.23,Urban,1,Brick&Mortar,Married with children,2,23,8,male
+5,119.08,Surburban,1,Brick&Mortar,Married with children,3,41,9,male
+8,105.73,Rural,1,Brick&Mortar,Married,6,44,3,female
+6,385.44,Urban,0,Brick&Mortar,Married with children,2,18,2,female
+3,445.86,Surburban,1,Web,Married with children,1,18,10,both
+2,76.92,Surburban,0,Web,Married with children,4,41,6,female
+9,73.88,Urban,0,Brick&Mortar,Married,5,34,1,female
+7,29.99,Urban,1,Brick&Mortar,Married with children,1,19,6,female
+2,123.73,Urban,0,Web,Single,2,24,6,male
+11,136.88,Urban,0,Web,Married with children,3,35,10,male
+1,1499.11,Surburban,1,Web,Married with children,2,27,9,both
+3,75.98,Urban,0,Web,Single,5,49,2,female
+10,111.03,Urban,1,Brick&Mortar,Married,5,55,1,female
+3,212.36,Surburban,0,Web,Married,6,47,1,both
+11,97.51,Urban,1,Web,Married with children,4,43,6,male
+9,241.77,Urban,0,Web,Married,4,39,10,male
+11,29.99,Surburban,1,Web,Single,6,55,1,female
+9,60.08,Urban,1,Web,Married with children,5,54,3,male
+11,105.53,Urban,1,Brick&Mortar,Married,1,19,8,male
+10,208.36,Urban,1,Web,Married,6,24,8,female
+8,29.99,Surburban,0,Brick&Mortar,Married with children,5,54,10,female
+4,253.39,Urban,0,Web,Married,5,51,7,male
+1,119.12,Rural,0,Web,Married,3,35,10,female
+9,29.99,Surburban,0,Brick&Mortar,Single,5,52,3,female
+9,257.13,Urban,0,Social,Married,5,25,6,male
+2,1372.46,Urban,1,Social,Married with children,1,24,1,male
+1,516.7,Surburban,1,Brick&Mortar,Single,3,41,2,female
+1,372.08,Surburban,0,Brick&Mortar,Married,1,46,4,male
+7,161.18,Urban,1,Brick&Mortar,Single,6,46,5,male
+2,928.65,Rural,1,Brick&Mortar,Married with children,6,27,6,both
+2,29.99,Surburban,0,Web,Married with children,3,34,7,female
+1,98.98,Surburban,1,Web,Married with children,1,38,6,female
+1,255.56,Urban,0,Brick&Mortar,Married,3,33,10,male
+4,134.04,Rural,0,Brick&Mortar,Married,1,23,5,female
+7,231.68,Urban,1,Social,Single,1,18,2,female
+10,109.59,Rural,1,Web,Married with children,4,32,10,female
+4,413.07,Urban,0,Brick&Mortar,Married with children,1,27,3,female
+8,29.99,Surburban,0,Web,Married with children,4,34,10,female
+6,392.88,Urban,1,Web,Single,1,32,5,female
+8,238.43,Surburban,1,Web,Married,3,42,3,male
+6,174.72,Surburban,0,Brick&Mortar,Single,4,38,8,male
+6,254.89,Surburban,1,Web,Married,5,48,2,both
+6,80.02,Surburban,0,Brick&Mortar,Single,5,46,10,female
+12,402.24,Urban,0,Brick&Mortar,Married with children,6,52,3,male
+8,149.31,Surburban,1,Brick&Mortar,Married with children,4,34,8,female
+2,313.35,Rural,0,Brick&Mortar,Married with children,1,24,1,both
+2,421.51,Urban,0,Social,Single,1,26,4,male
+6,101.82,Rural,1,Brick&Mortar,Single,6,50,1,male
+4,170.88,Urban,0,Web,Married with children,3,33,8,female
+6,32.17,Urban,1,Brick&Mortar,Married with children,4,44,9,male
+1,622.84,Surburban,1,Social,Married,4,33,7,male
+2,39.69,Rural,1,Web,Married,6,51,2,male
+3,83.25,Urban,1,Web,Single,1,24,2,male
+5,160.49,Rural,0,Brick&Mortar,Single,3,41,4,male
+10,43.18,Surburban,1,Brick&Mortar,Single,1,29,9,male
+7,99.64,Surburban,0,Brick&Mortar,Single,3,41,6,male
+6,175.03,Urban,0,Web,Married,6,46,4,female
+6,780.47,Urban,1,Social,Married,2,22,8,both
+10,72.97,Rural,0,Web,Single,2,31,6,female
+2,29.99,Urban,0,Web,Married,2,30,1,female
+5,286.82,Rural,0,Web,Married,4,19,5,both
+8,96.1,Surburban,1,Brick&Mortar,Married,1,31,1,male
+4,211.29,Rural,0,Brick&Mortar,Married with children,1,28,6,female
+7,538.33,Surburban,1,Social,Single,4,34,4,both
+2,211.44,Surburban,0,Web,Married with children,1,35,8,male
+2,858.08,Urban,1,Web,Married with children,3,41,9,male
+4,86.12,Rural,1,Web,Married with children,1,23,3,male
+7,354.86,Urban,0,Social,Single,2,35,9,male
+8,370.1,Rural,0,Brick&Mortar,Married with children,2,22,6,female
+4,93.94,Rural,1,Brick&Mortar,Married with children,5,51,5,male
+2,29.99,Urban,0,Brick&Mortar,Married,5,22,8,male
+4,29.99,Surburban,0,Brick&Mortar,Married with children,1,27,9,female
+7,290.61,Surburban,0,Social,Single,2,22,1,male
+2,326.65,Surburban,0,Social,Married with children,6,47,10,female
+1,458.2,Surburban,0,Social,Married,6,28,9,both
+7,187.7,Urban,1,Web,Single,6,26,6,male
+2,129.69,Urban,1,Web,Married,1,40,7,female
+5,29.99,Surburban,1,Web,Married with children,6,30,10,male
+1,260.38,Urban,1,Social,Married,1,19,3,male
+3,31.04,Rural,1,Brick&Mortar,Single,6,54,7,female
+7,151.81,Surburban,0,Web,Single,1,31,3,female
+6,109.59,Rural,1,Web,Married with children,5,44,10,female
+3,135,Urban,1,Web,Married with children,1,20,4,female
+10,147.06,Surburban,0,Web,Married with children,4,40,4,male
+7,371.09,Urban,0,Web,Single,1,28,3,female
+12,29.99,Surburban,1,Web,Married,4,32,4,female
+10,238.97,Urban,0,Social,Single,2,18,7,female
+1,74.84,Urban,0,Brick&Mortar,Married with children,2,23,7,female
+11,439.45,Surburban,0,Social,Married,6,45,4,male
+11,194.48,Rural,0,Brick&Mortar,Married,3,29,9,female
+10,38.05,Surburban,1,Web,Single,1,31,7,female
+4,793.22,Urban,1,Web,Single,2,22,4,male
+6,29.99,Urban,0,Web,Married,5,49,10,male
+9,36.87,Urban,1,Web,Married,4,36,10,male
+6,92.01,Surburban,1,Web,Single,4,46,10,male
+9,219.63,Urban,0,Brick&Mortar,Single,5,45,7,male
+1,148.57,Urban,0,Web,Married,1,21,8,female
+2,29.99,Urban,0,Web,Single,3,42,3,female
+1,29.99,Surburban,1,Web,Married with children,1,29,2,female
+12,60.64,Urban,1,Web,Married with children,5,53,10,male
+12,302.77,Surburban,0,Brick&Mortar,Married with children,4,32,2,female
+8,297.88,Surburban,0,Web,Single,5,51,9,male
+7,328.61,Urban,0,Brick&Mortar,Single,4,36,5,male
+11,265.65,Urban,1,Web,Married,5,54,6,male
+1,239.33,Surburban,1,Brick&Mortar,Married with children,6,53,5,male
+11,392.01,Surburban,0,Brick&Mortar,Married with children,1,46,8,female
+3,543.89,Urban,1,Brick&Mortar,Single,3,36,6,both
+10,198.91,Urban,0,Web,Married,5,46,9,female
+4,231.66,Rural,0,Web,Single,5,24,4,male
+1,1050.32,Urban,1,Social,Married with children,4,34,10,male
+4,559.8,Surburban,1,Social,Single,3,36,10,male
+4,1248.06,Rural,1,Social,Married,4,37,4,female
+11,93.93,Surburban,0,Web,Single,2,32,5,female
+10,123.64,Rural,0,Web,Married with children,1,26,10,female
+9,29.99,Surburban,0,Brick&Mortar,Married,6,53,8,female
+2,29.99,Surburban,0,Web,Married,2,31,4,female
+9,544.67,Urban,1,Web,Married with children,1,28,6,both
+6,554.81,Surburban,1,Social,Single,4,41,9,both
+9,195.54,Urban,0,Brick&Mortar,Single,6,52,8,male
+8,379.88,Urban,1,Brick&Mortar,Single,5,45,8,male
+4,218.92,Surburban,0,Web,Married with children,5,35,8,female
+2,872.36,Surburban,1,Brick&Mortar,Married,1,26,4,female
+1,155.81,Urban,1,Brick&Mortar,Married with children,2,22,3,female
+2,29.99,Urban,1,Web,Single,6,46,4,male
+10,218.38,Surburban,0,Social,Single,5,34,7,both
+4,237.38,Rural,0,Brick&Mortar,Married with children,5,48,8,male
+4,261.13,Rural,0,Brick&Mortar,Married with children,1,20,1,male
+8,430.84,Urban,0,Web,Married,4,34,4,male
+12,41.39,Rural,1,Brick&Mortar,Married with children,1,25,1,female
+9,41.28,Surburban,0,Brick&Mortar,Married,6,52,6,female
+5,47.49,Urban,0,Brick&Mortar,Married with children,1,44,9,male
+4,77.43,Surburban,0,Web,Married with children,1,31,5,male
+5,29.99,Surburban,0,Brick&Mortar,Single,6,54,10,male
+9,223.97,Rural,1,Web,Single,1,20,1,female
+4,127.41,Urban,0,Brick&Mortar,Married with children,4,43,10,male
+3,166.6,Surburban,1,Brick&Mortar,Married with children,6,47,8,female
+6,135.66,Surburban,1,Web,Married,1,22,9,female
+12,33.37,Surburban,0,Brick&Mortar,Single,5,52,8,male
+1,111.52,Surburban,0,Brick&Mortar,Married,3,48,9,male
+6,53.86,Urban,0,Web,Married with children,3,33,1,male
+1,32.72,Urban,0,Web,Married,4,20,10,male
+4,336.7,Urban,0,Web,Married with children,2,20,3,male
+9,241.21,Surburban,1,Web,Single,6,48,10,male
+12,82.97,Rural,0,Web,Married with children,5,48,3,male
+1,29.99,Surburban,0,Web,Married with children,4,42,7,male
+2,29.99,Surburban,1,Web,Single,6,20,2,male
+2,274.31,Surburban,0,Social,Married with children,5,43,10,male
+1,335.08,Urban,0,Brick&Mortar,Married,5,54,8,female
+8,257.81,Surburban,0,Web,Married with children,3,33,7,female
+2,72.46,Rural,1,Brick&Mortar,Married,2,18,9,male
+8,29.99,Urban,0,Web,Married with children,3,40,7,male
+9,141.07,Surburban,0,Brick&Mortar,Married with children,1,44,5,male
+10,134.81,Surburban,0,Brick&Mortar,Single,6,44,2,female
+6,62.81,Urban,1,Brick&Mortar,Married with children,1,31,1,female
+2,130.84,Urban,1,Brick&Mortar,Married,4,41,4,male
+3,368.18,Urban,0,Web,Married,4,18,7,female
+9,184.15,Urban,0,Brick&Mortar,Married with children,4,53,4,male
+10,243.12,Surburban,0,Brick&Mortar,Married,5,47,5,male
+10,46.92,Surburban,0,Brick&Mortar,Married with children,4,41,4,female
+1,158.43,Urban,1,Web,Married with children,2,19,1,female
+5,118.12,Urban,1,Brick&Mortar,Married,4,33,5,male
+2,126.97,Urban,1,Web,Single,1,22,5,female
+1,29.99,Rural,0,Web,Single,5,51,5,male
+4,29.99,Urban,0,Brick&Mortar,Single,4,19,2,male
+4,91.75,Surburban,1,Brick&Mortar,Married,3,36,9,female
+12,81.33,Rural,1,Web,Single,3,39,7,female
+1,29.99,Rural,1,Brick&Mortar,Married with children,5,36,3,female
+1,433,Surburban,0,Web,Married,2,35,8,female
+10,61.31,Urban,0,Brick&Mortar,Married,4,32,1,male
+12,68.21,Surburban,1,Web,Married,3,39,9,female
+9,312.77,Rural,0,Brick&Mortar,Married,1,19,4,male
+3,131.05,Surburban,1,Web,Married,3,35,3,male
+2,29.99,Urban,1,Web,Single,2,22,4,male
+4,52.89,Surburban,0,Web,Single,4,36,4,female
+11,113.63,Surburban,0,Web,Married with children,5,49,5,male
+2,188.92,Rural,0,Brick&Mortar,Single,2,27,5,male
+9,58.84,Surburban,1,Web,Married,3,32,3,female
+1,117.58,Rural,0,Brick&Mortar,Married,3,22,8,female
+2,810.28,Rural,1,Web,Single,1,27,7,male
+4,673.48,Rural,1,Brick&Mortar,Married,5,47,2,male
+6,73.58,Rural,1,Brick&Mortar,Single,3,49,2,female
+6,258.54,Urban,0,Brick&Mortar,Single,4,31,4,male
+7,301.43,Surburban,0,Web,Single,4,42,8,female
+4,157.95,Surburban,0,Web,Single,5,47,1,male
+11,29.99,Surburban,0,Brick&Mortar,Married,6,53,9,male
+10,29.99,Urban,1,Brick&Mortar,Married with children,1,22,5,female
+9,249.93,Rural,0,Web,Married with children,1,30,3,male
+7,594.22,Surburban,1,Brick&Mortar,Single,3,40,5,female
+8,169.36,Surburban,1,Brick&Mortar,Married,5,44,9,male
+1,173.89,Urban,0,Brick&Mortar,Married,1,24,4,male
+7,102.5,Surburban,1,Web,Single,2,28,3,female
+1,381.99,Urban,0,Brick&Mortar,Married,1,31,3,female
+2,159.19,Urban,0,Brick&Mortar,Married,4,42,9,female
+1,266.73,Urban,0,Brick&Mortar,Married with children,5,50,4,both
+9,51.99,Rural,1,Web,Married with children,3,38,7,female
+10,373.24,Surburban,0,Brick&Mortar,Married with children,4,31,6,female
+2,483.65,Surburban,0,Brick&Mortar,Single,2,49,8,female
+1,198.51,Surburban,1,Web,Married with children,6,48,3,female
+2,498.12,Urban,0,Web,Married,3,39,1,male
+8,57.27,Urban,0,Web,Single,6,52,10,male
+6,70.19,Surburban,0,Brick&Mortar,Married,3,31,7,male
+1,210.8,Surburban,0,Web,Married,1,53,8,male
+10,297.44,Surburban,0,Brick&Mortar,Single,2,18,8,female
+1,294.84,Surburban,0,Web,Single,6,45,6,male
+1,149.7,Surburban,1,Brick&Mortar,Married,5,44,8,male
+5,90.89,Surburban,0,Brick&Mortar,Married,4,37,10,male
+2,195.18,Surburban,1,Brick&Mortar,Married with children,5,54,8,female
+4,176.86,Surburban,0,Brick&Mortar,Married with children,6,54,2,female
+9,29.99,Surburban,1,Web,Single,3,42,8,male
+7,409.4,Urban,1,Brick&Mortar,Married,1,34,2,male
+7,76.06,Surburban,1,Brick&Mortar,Married with children,5,51,6,male
+4,86.79,Rural,0,Brick&Mortar,Married with children,1,20,6,female
+5,29.99,Rural,1,Web,Married,1,55,1,male
+8,230.37,Urban,1,Web,Single,6,28,7,female
+4,401.55,Surburban,0,Social,Single,3,31,1,male
+2,689.92,Surburban,1,Social,Married with children,2,18,5,male
+2,29.99,Rural,1,Brick&Mortar,Married,3,43,1,female
+10,29.99,Surburban,1,Web,Married with children,5,51,8,male
+7,90.2,Rural,0,Brick&Mortar,Married with children,3,27,1,male
+7,660.33,Surburban,1,Social,Married with children,1,28,7,both
+1,875.84,Surburban,1,Brick&Mortar,Married with children,1,31,8,female
+5,29.99,Urban,1,Web,Married,6,23,7,male
+4,29.99,Surburban,1,Brick&Mortar,Single,1,24,5,male
+6,29.99,Urban,0,Brick&Mortar,Married with children,5,24,7,male
+5,299.16,Surburban,0,Web,Single,1,20,3,female
+9,41.41,Surburban,1,Web,Married,1,24,8,male
+2,81.85,Surburban,1,Brick&Mortar,Married,1,27,7,female
+11,82.03,Urban,0,Brick&Mortar,Married with children,3,47,9,female
+1,106.61,Surburban,1,Web,Single,6,49,7,female
+12,189.17,Surburban,0,Web,Married,6,55,10,female
+8,109.88,Surburban,0,Brick&Mortar,Married,4,36,2,male
+7,29.99,Surburban,1,Web,Married with children,1,27,8,female
+9,263.07,Rural,0,Brick&Mortar,Married with children,4,33,5,female
+5,475.01,Surburban,0,Brick&Mortar,Married,3,40,1,female
+1,29.99,Urban,1,Web,Married with children,2,30,9,male
+6,220.68,Urban,0,Brick&Mortar,Married,5,52,10,male
+2,29.99,Surburban,1,Brick&Mortar,Married with children,4,20,6,male
+12,64.72,Surburban,1,Web,Single,2,23,9,male
+8,203.87,Surburban,0,Web,Married with children,1,30,3,male
+3,72.86,Urban,0,Brick&Mortar,Single,6,53,1,male
+1,71.31,Surburban,1,Brick&Mortar,Single,3,42,6,male
+10,223.37,Urban,0,Social,Married,2,31,3,both
+1,417.79,Surburban,0,Social,Married,3,35,7,female
+9,361.17,Surburban,0,Brick&Mortar,Single,1,35,4,female
+9,132.17,Surburban,1,Web,Married with children,5,53,1,male
+10,29.99,Urban,1,Web,Single,1,29,1,male
+11,231.26,Rural,1,Social,Married,2,21,6,male
+5,99.55,Rural,0,Brick&Mortar,Married with children,4,33,5,male
+6,70.71,Surburban,0,Web,Single,5,51,10,male
+9,910.07,Surburban,1,Social,Married with children,4,41,8,both
+12,29.99,Surburban,0,Web,Married with children,6,50,9,female
+10,480.88,Urban,0,Social,Single,6,41,2,female
+11,98.65,Surburban,1,Brick&Mortar,Married,1,29,4,female
+1,47.21,Surburban,1,Brick&Mortar,Married,3,37,9,female
+4,145.29,Urban,1,Web,Single,1,18,2,male
+1,79.44,Rural,1,Web,Married with children,6,49,8,female
+3,128.74,Surburban,0,Web,Single,6,51,2,male
+1,592.03,Urban,1,Social,Single,4,38,3,female
+10,233.44,Rural,0,Web,Married with children,6,50,10,female
+9,29.99,Surburban,0,Web,Married with children,1,30,9,female
+3,29.99,Urban,1,Brick&Mortar,Married with children,3,34,1,female
+9,37.1,Urban,0,Web,Married,2,22,9,female
+9,705.42,Urban,1,Brick&Mortar,Married with children,3,37,6,female
+4,29.99,Urban,0,Web,Married,6,47,9,female
+1,362.93,Surburban,1,Social,Married,2,27,7,male
+2,29.99,Urban,1,Web,Single,1,24,5,male
+2,228.93,Surburban,0,Web,Single,5,45,4,both
+5,445.3,Urban,1,Brick&Mortar,Married with children,2,21,5,both
+5,32.47,Urban,1,Web,Single,1,43,6,female
+3,29.99,Urban,0,Brick&Mortar,Single,2,25,6,male
+8,740.23,Surburban,1,Brick&Mortar,Married,5,55,9,both
+3,60.82,Urban,0,Web,Married,5,19,8,male
+2,228.39,Surburban,0,Social,Married,4,36,6,both
+9,29.99,Surburban,1,Brick&Mortar,Married,5,50,10,female
+10,29.99,Rural,1,Brick&Mortar,Married,5,46,4,female
+6,217.45,Rural,0,Brick&Mortar,Married,2,25,7,female
+7,200.11,Urban,0,Web,Married,1,23,4,female
+11,118.35,Urban,1,Brick&Mortar,Married,3,38,3,male
+5,374.5,Surburban,0,Brick&Mortar,Married with children,6,19,5,male
+11,101.61,Rural,1,Brick&Mortar,Married,2,20,4,female
+6,283.38,Urban,0,Social,Married,1,25,5,male
+1,252.86,Surburban,0,Social,Married with children,5,24,3,female
+10,186.38,Urban,0,Web,Single,2,40,3,male
+11,29.99,Surburban,1,Brick&Mortar,Single,6,47,4,female
+1,65.3,Rural,1,Web,Married with children,4,28,4,female
+3,363.14,Surburban,0,Brick&Mortar,Married,6,47,9,female
+4,153.29,Rural,0,Web,Single,1,25,4,female
+2,111.16,Surburban,1,Web,Married with children,4,39,7,female
+5,550.72,Urban,1,Social,Single,2,42,3,female
+5,210.84,Urban,1,Web,Married with children,5,34,7,both
+7,659.52,Rural,1,Web,Married with children,1,24,7,male
+5,589.55,Urban,1,Web,Married with children,1,20,2,female
+7,642.26,Surburban,1,Social,Single,3,37,3,both
+3,649.19,Urban,1,Web,Married,1,20,5,male
+9,29.99,Surburban,0,Web,Single,1,20,2,male
+10,34.49,Rural,0,Brick&Mortar,Married with children,6,54,1,female
+1,467.93,Surburban,0,Social,Single,1,37,6,male
+4,38.15,Surburban,1,Brick&Mortar,Married,2,49,6,female
+8,156.37,Surburban,0,Web,Married,1,34,8,female
+7,48.43,Urban,1,Web,Married,6,47,8,male
+11,192.79,Urban,0,Web,Single,4,51,6,male
+11,150.14,Urban,0,Web,Married,6,46,8,female
+10,91.58,Surburban,0,Web,Single,6,53,7,male
+4,264.09,Urban,1,Brick&Mortar,Married with children,2,45,9,male
+3,523.58,Urban,1,Brick&Mortar,Married with children,5,31,1,male
+4,331.36,Urban,1,Brick&Mortar,Single,6,47,3,male
+6,110.38,Surburban,0,Web,Married,2,46,7,male
+2,29.99,Surburban,0,Web,Married with children,6,55,10,male
+6,426.8,Urban,1,Brick&Mortar,Single,4,38,2,male
+9,285.74,Surburban,0,Brick&Mortar,Married with children,2,27,6,male
+2,176.85,Urban,1,Web,Married with children,1,33,1,male
+1,1170.05,Urban,1,Social,Married,4,32,10,female
+5,323.52,Rural,0,Web,Single,2,52,7,both
+1,423.23,Urban,0,Brick&Mortar,Married,5,52,1,male
+2,219.43,Surburban,1,Social,Single,1,24,1,female
+5,36.21,Rural,1,Brick&Mortar,Married with children,4,36,6,male
+4,298.47,Urban,1,Brick&Mortar,Single,2,39,6,both
+1,33.44,Surburban,1,Brick&Mortar,Married,4,41,3,female
+10,110.84,Surburban,0,Brick&Mortar,Married with children,5,49,2,male
+4,131.49,Rural,1,Brick&Mortar,Married with children,2,18,4,male
+1,236.5,Urban,0,Social,Married with children,3,34,6,male
+12,150.07,Surburban,0,Web,Married,2,41,2,male
+1,165.43,Urban,0,Web,Married with children,4,23,6,male
+2,252.91,Urban,0,Web,Married with children,5,47,1,male
+5,110.13,Surburban,0,Web,Single,1,25,9,female
+5,132.13,Rural,1,Web,Single,2,20,7,male
+10,46.54,Surburban,0,Brick&Mortar,Married,4,32,3,female
+8,153.31,Surburban,0,Brick&Mortar,Married with children,5,28,10,female
+6,964.65,Surburban,1,Social,Married with children,1,44,4,female
+5,42.3,Urban,0,Brick&Mortar,Single,5,51,1,female
+7,29.99,Surburban,0,Web,Single,4,40,2,female
+6,139.82,Urban,1,Brick&Mortar,Married,3,38,3,male
+8,91.89,Surburban,1,Brick&Mortar,Married,6,24,4,female
+9,284.8,Rural,0,Web,Single,6,53,2,male
+2,314.34,Urban,1,Web,Married,1,33,6,male
+5,175.74,Urban,0,Brick&Mortar,Single,3,36,5,female
+4,29.99,Rural,1,Web,Married,6,45,6,female
+5,549.85,Urban,1,Web,Single,1,30,1,male
+1,335.71,Surburban,0,Brick&Mortar,Married with children,4,34,5,male
+9,167.29,Urban,0,Brick&Mortar,Single,5,47,6,male
+7,57.14,Urban,1,Web,Married,4,32,2,male
+5,311.6,Surburban,0,Web,Single,3,33,8,female
+1,652.52,Urban,1,Social,Single,5,43,9,female
+10,29.99,Rural,0,Web,Married with children,3,54,5,female
+11,29.99,Urban,0,Brick&Mortar,Single,6,46,3,male
+10,187.94,Surburban,0,Web,Married,5,55,5,male
+12,645.38,Urban,1,Brick&Mortar,Single,2,50,3,female
+1,833.25,Urban,1,Brick&Mortar,Single,6,52,10,female
+3,69.66,Urban,1,Web,Married,5,30,3,male
+11,131.17,Urban,1,Web,Married with children,3,42,8,female
+9,359.65,Surburban,0,Social,Single,4,38,7,both
+1,1367.58,Surburban,1,Brick&Mortar,Married,5,51,5,male
+1,365.79,Urban,0,Brick&Mortar,Married with children,6,32,1,male
+7,236.04,Surburban,0,Web,Married,4,38,8,both
+4,330.13,Surburban,0,Web,Married,4,37,8,female
+9,61.56,Urban,0,Brick&Mortar,Married,1,25,4,male
+7,131.07,Urban,1,Brick&Mortar,Married with children,4,41,10,female
+9,225.54,Urban,0,Web,Married with children,4,39,2,both
+10,208.13,Rural,0,Brick&Mortar,Married,2,22,10,both
+9,29.99,Rural,1,Brick&Mortar,Married,6,54,4,female
+2,62.34,Urban,1,Brick&Mortar,Single,3,34,9,female
+2,238.34,Surburban,1,Social,Married,5,50,9,female
+2,176.04,Rural,1,Web,Married,6,51,4,female
+9,121.3,Surburban,1,Web,Married,2,31,8,female
+12,391.36,Surburban,0,Social,Single,5,51,1,female
+7,63.51,Surburban,1,Brick&Mortar,Single,2,27,7,male
+7,185.17,Urban,1,Brick&Mortar,Single,6,39,7,female
+5,775.57,Urban,1,Brick&Mortar,Married,1,29,10,female
+7,455.3,Surburban,1,Brick&Mortar,Married,4,37,10,male
+3,42.04,Surburban,1,Brick&Mortar,Married with children,2,26,10,female
+10,291,Urban,0,Web,Single,1,28,7,female
+3,325.84,Rural,0,Web,Married with children,4,41,1,female
+10,38.21,Rural,1,Web,Married with children,3,44,5,male
+6,480.45,Urban,0,Social,Married,5,18,8,male
+10,84.95,Urban,0,Brick&Mortar,Married with children,2,27,9,male
+10,422.14,Urban,1,Brick&Mortar,Single,4,43,7,both
+1,582.93,Surburban,1,Web,Married,3,36,5,male
+10,526.41,Rural,1,Brick&Mortar,Single,6,23,10,female
+3,342.64,Surburban,0,Brick&Mortar,Single,4,34,3,female
+2,176.54,Urban,0,Web,Married,2,20,1,female
+11,145.39,Surburban,0,Web,Married with children,5,49,5,female
+2,939.58,Surburban,1,Social,Single,4,24,8,female
+1,1777.61,Urban,1,Brick&Mortar,Married,3,32,8,both
+9,1011.13,Urban,1,Web,Single,3,22,3,female
+3,96.15,Urban,0,Brick&Mortar,Single,6,31,2,male
+4,585.08,Rural,1,Brick&Mortar,Single,2,29,10,male
+6,108.04,Surburban,1,Brick&Mortar,Married,5,47,10,female
+2,73.89,Urban,0,Brick&Mortar,Married,5,47,2,female
+7,65.01,Urban,0,Web,Married,3,33,6,female
+6,85.71,Surburban,0,Web,Single,3,31,4,female
+6,62.96,Surburban,1,Web,Married,6,53,3,male
+3,691.05,Surburban,1,Brick&Mortar,Single,4,39,5,both
+5,80.6,Surburban,1,Web,Single,5,50,9,female
+7,184.69,Surburban,1,Web,Married,2,29,9,male
+9,134.1,Urban,0,Web,Married,6,36,6,female
+6,29.99,Surburban,0,Brick&Mortar,Married,4,37,7,male
+8,152.11,Surburban,0,Web,Married with children,5,22,5,female
+3,29.99,Surburban,0,Brick&Mortar,Married with children,4,26,5,male
+9,29.99,Rural,1,Web,Married with children,3,41,5,female
+5,189.25,Urban,0,Web,Married with children,5,44,10,female
+2,591.15,Urban,1,Web,Married with children,6,42,7,male
+3,507.32,Rural,1,Brick&Mortar,Married with children,2,37,9,both
+11,29.99,Urban,0,Brick&Mortar,Married with children,6,53,5,male
+10,81.62,Surburban,0,Web,Married with children,4,33,8,male
+8,68.6,Rural,1,Web,Married,6,54,3,female
+9,106.1,Urban,0,Web,Married with children,2,22,9,male
+1,42.26,Urban,1,Web,Married with children,1,26,6,male
+6,29.99,Surburban,0,Brick&Mortar,Married with children,5,43,3,male
+4,29.99,Surburban,0,Brick&Mortar,Single,4,35,9,female
+7,315.13,Rural,0,Web,Married with children,1,50,9,both
+4,187.3,Urban,1,Web,Single,3,50,8,female
+1,1853.3,Surburban,1,Social,Married with children,3,35,3,female
+4,29.99,Urban,1,Web,Married,1,49,8,female
+2,66.27,Surburban,0,Web,Married with children,2,21,2,male
+8,426.95,Urban,1,Brick&Mortar,Married,2,19,5,female
+12,186.58,Surburban,1,Web,Married,5,51,8,male
+4,293.81,Urban,1,Brick&Mortar,Married with children,1,23,8,male
+4,189.99,Rural,0,Web,Single,4,42,7,male
+11,190.92,Surburban,1,Web,Single,6,54,10,male
+7,275.16,Rural,0,Web,Married with children,2,24,9,female
+1,449.77,Surburban,0,Brick&Mortar,Married with children,1,27,5,male
+10,312.3,Surburban,1,Social,Married with children,2,25,5,both
+1,1309.03,Urban,1,Social,Married with children,6,33,9,both
+1,29.99,Urban,0,Web,Married with children,3,50,4,female
+2,227.43,Urban,0,Web,Married,1,28,4,female
+2,218.07,Rural,0,Web,Married with children,2,24,5,both
+7,57.82,Urban,1,Brick&Mortar,Married with children,4,35,4,male
+10,112.39,Urban,0,Web,Married,1,23,10,male
+8,64.36,Surburban,1,Web,Married,4,38,9,male
+1,90.07,Urban,1,Web,Single,5,44,2,female
+1,30.93,Urban,1,Web,Married,2,55,9,female
+2,607.79,Surburban,1,Brick&Mortar,Single,2,46,4,both
+8,185.13,Surburban,0,Brick&Mortar,Married with children,4,33,8,male
+5,189.36,Surburban,0,Brick&Mortar,Single,4,33,3,female
+6,527.94,Urban,1,Brick&Mortar,Married with children,2,30,1,both
+10,207.88,Surburban,0,Brick&Mortar,Single,2,30,1,female
+3,718.05,Urban,1,Web,Single,6,52,5,male
+10,29.99,Rural,1,Web,Married,4,41,8,female
+10,75.12,Urban,1,Web,Married,6,46,2,male
+3,511.94,Surburban,1,Brick&Mortar,Married,3,55,6,male
+10,59.2,Rural,1,Brick&Mortar,Single,5,53,1,female
+9,119,Surburban,0,Brick&Mortar,Married,2,26,6,female
+5,201.22,Urban,0,Brick&Mortar,Married with children,4,37,8,male
+10,426.64,Surburban,0,Web,Married,6,45,4,female
+10,77.31,Urban,1,Web,Married,1,47,2,male
+2,75.94,Urban,1,Brick&Mortar,Married with children,5,55,2,female
+8,81.11,Urban,1,Web,Married,3,40,9,female
+5,29.99,Urban,1,Web,Married with children,5,48,5,female
+10,34.97,Surburban,0,Brick&Mortar,Married with children,2,20,4,male
+4,384.69,Surburban,0,Web,Married,5,46,8,both
+12,793.35,Urban,1,Brick&Mortar,Married with children,2,30,5,both
+1,421.86,Rural,1,Social,Single,1,30,4,male
+1,117.26,Rural,0,Web,Single,4,43,4,male
+9,649.68,Rural,1,Social,Single,1,21,10,female
+2,100.87,Surburban,0,Brick&Mortar,Married with children,1,25,1,female
+12,39.2,Surburban,1,Brick&Mortar,Single,6,18,4,female
+2,294.3,Urban,1,Brick&Mortar,Single,3,19,7,female
+5,944.4,Surburban,1,Social,Married with children,2,20,10,female
+1,308.13,Surburban,0,Web,Single,6,18,8,male
+10,72.25,Surburban,1,Brick&Mortar,Married,6,26,2,male
+11,39.18,Surburban,1,Brick&Mortar,Married with children,5,35,7,female
+11,242.29,Rural,0,Web,Married with children,5,48,5,male
+5,212.69,Surburban,0,Web,Single,1,47,9,male
+11,281.17,Surburban,1,Brick&Mortar,Married,1,20,1,male
+9,73.93,Surburban,1,Brick&Mortar,Married with children,2,24,4,male
+9,29.99,Urban,1,Brick&Mortar,Married with children,3,54,8,male
+1,693.07,Urban,1,Brick&Mortar,Married with children,4,32,5,both
+7,29.99,Urban,0,Brick&Mortar,Married with children,4,39,5,male
+5,81.26,Surburban,0,Web,Married with children,2,25,3,female
+1,281.71,Urban,1,Social,Single,4,53,7,female
+9,340.42,Surburban,1,Web,Married with children,2,47,9,female
+6,29.99,Rural,0,Web,Single,5,52,9,male
+10,331.83,Urban,0,Web,Single,1,27,8,male
+4,342.91,Urban,0,Brick&Mortar,Married with children,6,54,7,male
+9,261.46,Surburban,0,Brick&Mortar,Married with children,4,49,10,female
+7,279.19,Urban,1,Brick&Mortar,Married,5,45,2,male
+2,29.99,Urban,1,Brick&Mortar,Single,3,36,10,female
+9,140.04,Surburban,0,Web,Married,3,37,1,male
+3,226.04,Urban,0,Brick&Mortar,Married with children,4,31,8,male
+1,108.53,Urban,1,Web,Married,1,37,6,male
+4,426.79,Urban,1,Brick&Mortar,Single,3,34,5,female
+1,522.65,Surburban,1,Brick&Mortar,Married with children,1,26,2,male
+7,139.41,Surburban,1,Brick&Mortar,Married,2,21,10,male
+2,173.79,Surburban,1,Web,Single,3,55,8,male
+2,574.39,Rural,1,Social,Married with children,3,39,8,female
+12,70.96,Surburban,0,Web,Married with children,3,52,5,male
+2,29.99,Surburban,0,Brick&Mortar,Single,4,32,5,male
+5,29.99,Surburban,1,Brick&Mortar,Married with children,6,45,3,male
+9,213.48,Surburban,1,Web,Single,3,39,6,female
+1,395.19,Rural,1,Brick&Mortar,Married with children,5,40,2,male
+3,115.17,Urban,0,Brick&Mortar,Married,5,39,2,male
+4,117.41,Surburban,0,Web,Married with children,2,23,1,female
+1,83.3,Urban,1,Brick&Mortar,Married,1,31,9,male
+7,198.29,Surburban,1,Web,Married with children,6,30,4,male
+9,29.99,Urban,1,Web,Single,2,29,9,male
+2,232.94,Surburban,1,Brick&Mortar,Single,3,33,6,both
+10,231.86,Surburban,0,Social,Married,4,51,9,male
+9,387.33,Surburban,1,Brick&Mortar,Married,3,35,7,male
+1,448.86,Urban,0,Social,Married with children,3,23,9,female
+12,69.08,Rural,0,Brick&Mortar,Married,6,26,8,female
+5,254.22,Surburban,0,Web,Single,6,49,10,male
+3,817.51,Urban,1,Web,Single,6,48,8,female
+10,71.24,Surburban,1,Web,Married with children,6,48,4,male
+12,385.02,Surburban,0,Social,Single,6,44,7,both
+6,228.79,Urban,1,Web,Married with children,6,53,7,female
+10,118.52,Surburban,1,Brick&Mortar,Married with children,2,25,9,male
+8,29.99,Rural,0,Brick&Mortar,Single,2,21,2,female
+10,112.61,Urban,1,Brick&Mortar,Married,3,20,5,male
+1,145.75,Urban,0,Brick&Mortar,Married with children,1,28,1,female
+1,120.97,Surburban,0,Web,Single,1,30,5,female
+5,260.97,Urban,1,Web,Married with children,6,52,10,male
+4,631.27,Urban,1,Brick&Mortar,Married with children,4,34,9,both
+9,90.37,Rural,0,Brick&Mortar,Married,1,40,8,male
+11,389.37,Surburban,0,Web,Single,4,34,7,both
+7,348.78,Rural,1,Brick&Mortar,Single,5,53,5,female
+6,447.01,Urban,1,Web,Married,4,43,9,female
+7,29.99,Urban,1,Web,Married,5,38,6,female
+2,661.58,Urban,1,Social,Single,6,54,2,both
+2,45.07,Rural,1,Brick&Mortar,Single,1,26,10,male
+11,93.59,Surburban,0,Web,Married,1,30,7,female
+4,29.99,Urban,1,Web,Married,4,28,4,female
+10,71.53,Urban,1,Brick&Mortar,Single,2,26,8,female
+9,294.6,Surburban,1,Brick&Mortar,Single,1,22,10,female
+5,29.99,Urban,0,Web,Married,4,32,3,male
+2,241.1,Urban,1,Web,Single,3,37,2,female
+8,394.16,Surburban,0,Web,Single,2,28,6,female
+9,142.51,Surburban,1,Web,Single,2,31,3,male
+11,48.87,Urban,0,Brick&Mortar,Married,2,23,3,male
+2,93.12,Urban,1,Web,Married with children,5,44,9,male
+1,87.98,Surburban,0,Web,Married,1,52,10,female
+11,29.99,Surburban,1,Brick&Mortar,Married with children,3,34,3,female
+1,208.89,Urban,0,Brick&Mortar,Married,3,35,6,female
+10,29.99,Urban,1,Web,Single,5,22,10,female
+9,72.97,Urban,1,Web,Married with children,1,31,8,male
+9,103.42,Urban,1,Web,Married,4,43,5,female
+5,494.97,Surburban,1,Web,Married,2,28,7,female
+10,140.39,Surburban,1,Brick&Mortar,Single,3,39,7,female
+1,438.42,Surburban,0,Social,Married with children,4,32,6,both
+8,173.81,Urban,0,Brick&Mortar,Married,5,53,8,male
+9,33.25,Surburban,0,Brick&Mortar,Married with children,3,35,4,male
+10,31.65,Rural,1,Brick&Mortar,Married with children,2,24,1,male
+10,87.39,Surburban,1,Web,Married with children,2,18,9,male
+7,319.82,Surburban,0,Brick&Mortar,Single,2,28,4,female
+6,62.18,Urban,0,Web,Single,6,44,2,male
+1,487.57,Surburban,0,Web,Married,1,55,7,female
+12,125.92,Urban,1,Web,Married,3,40,9,female
+1,164.6,Urban,1,Web,Married,4,22,3,female
+9,141.58,Urban,0,Brick&Mortar,Single,1,25,2,female
+3,222.7,Rural,0,Web,Married with children,1,45,4,female
+1,474.35,Rural,0,Social,Single,5,54,6,male
+1,79.23,Urban,1,Web,Married,4,38,2,female
+5,243.51,Urban,1,Brick&Mortar,Married with children,1,47,8,female
+10,247.49,Urban,0,Brick&Mortar,Married with children,4,37,6,male
+3,736.2,Rural,1,Web,Single,4,32,1,male
+8,500.5,Surburban,1,Web,Single,1,28,4,male
+4,394.43,Surburban,0,Brick&Mortar,Married,3,22,10,male
+4,510.06,Urban,1,Web,Single,2,28,8,female
+5,579.3,Urban,1,Web,Married,3,48,3,male
+9,323.57,Urban,0,Web,Single,6,54,2,both
+1,300.23,Surburban,0,Web,Married,3,32,3,both
+2,551.44,Urban,1,Brick&Mortar,Married with children,4,36,3,female
+10,175.39,Rural,0,Brick&Mortar,Single,3,35,7,male
+4,127.66,Urban,0,Web,Married with children,5,54,8,female
+9,103.87,Surburban,1,Brick&Mortar,Married,3,33,9,female
+3,54.51,Urban,1,Brick&Mortar,Single,5,49,7,female
+1,486.42,Rural,0,Social,Married with children,1,20,4,male
+2,799.08,Urban,1,Web,Married with children,1,38,8,female
+11,29.99,Rural,1,Brick&Mortar,Single,4,44,8,female
+1,189.89,Surburban,1,Web,Married,4,41,5,female
+6,67.58,Surburban,1,Brick&Mortar,Single,1,48,6,male
+1,36.95,Rural,1,Web,Married with children,4,42,3,female
+11,47.15,Urban,1,Web,Married with children,6,51,4,male
+4,137.31,Urban,1,Web,Married with children,4,33,9,female
+4,217.52,Rural,0,Brick&Mortar,Married,6,47,3,male
+9,100.89,Urban,1,Web,Single,4,39,1,male
+3,329.29,Surburban,0,Web,Single,4,41,3,male
+10,418.43,Rural,0,Brick&Mortar,Married with children,5,48,1,female
+3,426.11,Urban,0,Brick&Mortar,Married,3,41,3,both
+3,50.04,Surburban,1,Web,Married with children,4,43,10,female
+7,29.99,Surburban,1,Brick&Mortar,Married,3,44,4,male
+10,32.34,Surburban,1,Web,Married with children,2,28,4,male
+6,756.69,Urban,1,Web,Married,6,47,4,female
+5,67.69,Surburban,1,Web,Married with children,2,31,7,female
+2,85.21,Urban,0,Web,Married with children,3,34,2,male
+2,235.72,Urban,0,Brick&Mortar,Married with children,4,38,10,female
+9,109.97,Surburban,1,Web,Single,2,40,1,male
+3,189.59,Surburban,0,Web,Married,1,22,5,male
+5,370.68,Urban,0,Brick&Mortar,Single,2,29,3,female
+7,146.12,Surburban,1,Brick&Mortar,Married,1,25,9,male
+5,55,Urban,1,Brick&Mortar,Single,4,33,3,male
+3,145.73,Surburban,1,Web,Married with children,4,20,1,male
+6,320.14,Surburban,0,Brick&Mortar,Married with children,6,49,8,male
+10,270.79,Surburban,0,Web,Married,4,21,4,both
+5,36.92,Urban,1,Brick&Mortar,Single,5,51,2,female
+9,31.46,Urban,1,Web,Single,2,30,8,female
+1,511.17,Urban,1,Social,Married with children,6,55,1,male
+9,100.24,Surburban,0,Brick&Mortar,Single,1,19,5,male
+2,636.53,Surburban,1,Social,Married with children,6,48,1,both
+1,95.09,Urban,0,Brick&Mortar,Single,5,53,9,male
+1,29.99,Urban,1,Web,Single,5,43,9,female
+2,1312.34,Surburban,1,Web,Married,3,42,1,male
+11,156.84,Urban,0,Web,Single,2,19,7,male
+3,353.05,Urban,0,Social,Married with children,1,53,3,male
+12,75.63,Surburban,0,Web,Married with children,2,54,6,male
+2,197.27,Surburban,1,Web,Single,1,24,5,female
+3,295.24,Urban,1,Brick&Mortar,Single,1,36,4,both
+10,113.48,Rural,1,Web,Married with children,2,30,5,male
+7,84.85,Urban,0,Brick&Mortar,Married with children,1,24,9,female
+12,55.69,Urban,0,Web,Married with children,5,45,4,male
+2,473.34,Urban,0,Brick&Mortar,Single,4,35,3,female
+4,146.71,Urban,0,Brick&Mortar,Married,3,33,8,male
+6,46.4,Rural,1,Brick&Mortar,Married,3,39,2,male
+9,210.88,Urban,1,Web,Married with children,5,22,4,female
+3,225.5,Urban,1,Brick&Mortar,Married with children,5,55,10,male
+9,33.92,Surburban,1,Brick&Mortar,Married with children,2,31,2,male
+5,429.66,Rural,0,Social,Married with children,4,35,3,female
+2,152.99,Urban,0,Web,Married with children,3,31,7,male
+4,186.52,Urban,1,Web,Married,1,27,1,female
+3,182.87,Urban,0,Web,Married,4,40,2,male
+6,239,Surburban,0,Brick&Mortar,Married,1,23,6,female
+4,58.79,Urban,1,Brick&Mortar,Single,3,49,3,male
+1,665.74,Urban,1,Social,Married with children,1,21,5,both
+6,54.61,Urban,1,Brick&Mortar,Married with children,4,43,10,male
+10,248.86,Surburban,0,Social,Married with children,4,37,3,female
+8,310.99,Surburban,0,Brick&Mortar,Married with children,4,43,10,female
+2,123.07,Urban,1,Web,Married with children,5,53,3,male
+8,210.24,Urban,1,Web,Married with children,6,51,6,male
+11,152.31,Rural,1,Web,Married with children,2,27,1,female
+7,29.99,Urban,0,Web,Married with children,6,55,4,male
+4,29.99,Urban,0,Brick&Mortar,Married with children,1,26,10,female
+8,472.16,Urban,0,Social,Married with children,1,20,2,both
+2,104.87,Surburban,0,Brick&Mortar,Single,1,23,9,female
+7,36.51,Surburban,0,Web,Married with children,6,54,1,male
+5,397.91,Urban,1,Social,Single,6,25,4,female
+12,42,Surburban,0,Brick&Mortar,Single,5,52,3,male
+6,750.72,Urban,1,Web,Married,2,18,5,female
+9,894.15,Urban,1,Social,Single,5,49,7,both
+8,29.99,Surburban,1,Web,Single,4,42,8,male
+8,340.97,Surburban,0,Brick&Mortar,Married with children,4,43,8,both
+7,613.01,Surburban,1,Web,Single,4,41,5,both
+9,29.99,Surburban,1,Brick&Mortar,Married,5,52,6,female
+10,210.85,Urban,0,Web,Married with children,2,38,8,female
+10,29.99,Surburban,1,Web,Single,4,44,6,female
+4,80.23,Rural,0,Web,Married with children,1,43,4,female
+6,164.5,Urban,0,Brick&Mortar,Single,5,32,9,female
+1,1062.92,Urban,1,Social,Married with children,2,39,1,female
+5,745.67,Surburban,1,Social,Married,4,37,4,male
+2,98.67,Surburban,0,Brick&Mortar,Single,5,52,4,female
+4,64.59,Urban,1,Web,Married with children,4,33,2,male
+2,69.17,Urban,0,Web,Married with children,4,43,9,male
+3,137.59,Urban,1,Brick&Mortar,Married with children,5,50,9,male
+4,504.98,Surburban,1,Brick&Mortar,Single,5,51,10,male
+7,29.99,Rural,0,Brick&Mortar,Married with children,4,40,2,male
+9,523.66,Urban,1,Social,Married,5,50,2,female
+5,403.76,Urban,0,Social,Married,4,38,5,both
+4,229.51,Urban,1,Social,Married,3,35,4,male
+1,29.99,Rural,0,Brick&Mortar,Married,3,43,10,male
+1,202.76,Urban,1,Brick&Mortar,Married with children,2,20,3,female
+5,74.38,Surburban,0,Brick&Mortar,Single,5,29,6,female
+2,282.39,Urban,1,Brick&Mortar,Married with children,3,40,8,male
+11,367.9,Urban,0,Web,Married,4,32,8,male
+6,165.24,Urban,0,Web,Single,6,51,2,male
+1,439.78,Urban,1,Brick&Mortar,Married with children,1,24,10,both
+1,161.03,Urban,1,Brick&Mortar,Single,1,21,2,male
+10,134.01,Urban,1,Brick&Mortar,Single,1,55,3,female
+1,119,Surburban,0,Web,Married,4,39,3,female
+7,183.7,Urban,0,Web,Married,3,32,5,female
+4,47.7,Urban,1,Web,Single,2,28,9,female
+7,29.99,Surburban,1,Web,Single,1,22,8,male
+11,68.53,Surburban,1,Web,Married,5,47,2,female
+3,857.34,Surburban,1,Social,Single,1,21,2,both
+9,29.99,Rural,0,Brick&Mortar,Married with children,2,31,3,female
+5,135,Urban,0,Brick&Mortar,Single,5,51,3,female
+10,261.12,Urban,1,Social,Married with children,1,42,2,female
+9,50.32,Urban,1,Brick&Mortar,Married,3,32,9,female
+7,46.51,Rural,1,Web,Married,3,38,6,male
+7,189.59,Urban,1,Brick&Mortar,Married,4,38,3,male
+2,29.99,Urban,0,Web,Single,4,21,8,female
+2,193.33,Surburban,0,Brick&Mortar,Married,4,41,6,male
+2,29.99,Urban,0,Web,Single,2,21,5,female
+2,29.99,Surburban,1,Brick&Mortar,Married,6,48,3,female
+7,247.45,Urban,1,Web,Married,4,42,4,male
+11,420.15,Urban,0,Web,Married,5,45,7,female
+3,78.08,Urban,0,Web,Married,2,45,8,female
+3,102.6,Urban,0,Web,Single,4,41,7,male
+2,285.27,Surburban,0,Brick&Mortar,Married with children,5,25,2,male
+9,35.94,Surburban,1,Brick&Mortar,Married,5,41,5,male
+6,371.95,Urban,0,Web,Single,4,55,8,male
+5,282.93,Urban,0,Web,Married,4,43,5,female
+8,94.87,Urban,1,Brick&Mortar,Single,3,41,4,male
+9,44.97,Surburban,1,Web,Single,5,47,8,male
+10,193.08,Urban,1,Web,Married with children,3,35,9,male
+6,89.49,Urban,1,Brick&Mortar,Married with children,4,41,7,female
+2,29.99,Rural,0,Brick&Mortar,Single,2,25,1,male
+5,205.74,Urban,1,Web,Married,2,25,7,male
+5,165.15,Urban,0,Brick&Mortar,Married with children,5,42,5,female
+4,29.99,Urban,0,Web,Married,5,48,5,female
+5,241.66,Urban,0,Web,Married with children,4,39,8,male
+6,232.51,Urban,0,Web,Married with children,6,44,10,male
+9,54.24,Surburban,0,Brick&Mortar,Married with children,1,28,7,male
+10,277.84,Urban,1,Web,Single,2,37,8,male
+6,29.99,Surburban,1,Web,Married,3,28,1,female
+7,544.3,Surburban,1,Brick&Mortar,Married,3,25,3,female
+5,49.56,Surburban,0,Brick&Mortar,Married,3,35,2,female
+7,201.3,Surburban,1,Brick&Mortar,Married with children,6,52,6,female
+1,196.72,Urban,1,Brick&Mortar,Married,4,40,5,male
+2,184.31,Surburban,0,Brick&Mortar,Single,4,20,1,male
+8,945.47,Surburban,1,Web,Married,4,39,2,male
+3,29.99,Surburban,1,Web,Single,1,33,6,female
+7,55.26,Surburban,0,Web,Married,3,39,3,male
+9,29.99,Surburban,1,Brick&Mortar,Married,3,43,9,male
+12,29.99,Surburban,1,Web,Married with children,4,42,7,female
+1,464.45,Urban,0,Brick&Mortar,Married,5,55,10,both
+10,177.55,Urban,0,Brick&Mortar,Married,4,31,9,female
+6,637.97,Surburban,1,Brick&Mortar,Single,2,30,2,male
+4,407.59,Urban,0,Social,Married with children,2,50,10,male
+9,105.27,Rural,0,Web,Married with children,4,37,7,male
+12,166.34,Rural,0,Web,Married with children,3,38,7,female
+1,103.46,Urban,1,Brick&Mortar,Single,1,18,3,male
+9,366.56,Urban,0,Brick&Mortar,Single,3,40,6,male
+7,156.75,Surburban,0,Web,Single,1,20,3,male
+2,215.55,Surburban,1,Web,Married,3,42,4,both
+10,72.93,Rural,0,Web,Married with children,6,38,6,male
+10,110.29,Urban,0,Web,Married,6,55,3,female
+3,255.29,Surburban,1,Web,Single,6,48,8,female
+2,417.04,Surburban,1,Web,Married,2,25,9,female
+6,29.99,Urban,0,Brick&Mortar,Married with children,2,30,5,female
+5,276.27,Urban,1,Social,Single,1,31,1,female
+1,1047.82,Urban,1,Social,Married with children,6,48,6,male
+3,131.27,Surburban,0,Web,Married with children,6,47,7,female
+2,215.76,Surburban,1,Brick&Mortar,Married with children,5,46,1,male
+11,129.15,Surburban,0,Brick&Mortar,Single,5,53,5,female
+6,38.52,Urban,0,Web,Married,6,49,6,male
+6,60.88,Surburban,1,Brick&Mortar,Single,5,45,8,male
+9,415.77,Urban,0,Web,Married,6,40,5,male
+3,659.89,Surburban,1,Web,Single,2,19,10,both
+6,29.99,Urban,1,Web,Single,5,47,7,male
+1,29.99,Urban,1,Web,Married,5,48,2,male
+2,356.27,Urban,0,Brick&Mortar,Married with children,4,35,10,female
+4,195.11,Surburban,1,Web,Single,3,35,1,male
+1,173.29,Urban,1,Brick&Mortar,Married with children,1,22,9,female
+3,40.39,Rural,0,Web,Married with children,4,40,1,male
+4,333.9,Urban,1,Social,Married with children,3,53,4,male
+6,29.99,Surburban,0,Web,Married with children,5,49,10,female
+1,101.44,Surburban,0,Brick&Mortar,Single,2,21,7,female
+3,1306.69,Urban,1,Brick&Mortar,Married with children,4,36,5,both
+12,44.6,Surburban,0,Brick&Mortar,Married with children,3,20,4,male
+5,614.54,Urban,1,Brick&Mortar,Married,2,24,10,both
+6,114.53,Rural,0,Brick&Mortar,Married,1,23,1,male
+4,174.95,Surburban,0,Brick&Mortar,Married,4,38,2,female
+7,257.45,Surburban,1,Web,Married with children,5,45,5,female
+11,557.17,Surburban,1,Web,Single,3,32,8,male
+10,260.67,Urban,1,Brick&Mortar,Married,2,19,6,male
+8,210.06,Surburban,0,Social,Married,1,48,2,male
+3,33.35,Surburban,0,Web,Married with children,5,50,10,male
+3,141.9,Urban,1,Web,Married,5,55,6,male
+8,43.16,Urban,1,Brick&Mortar,Single,3,46,4,female
+7,554.77,Surburban,1,Web,Married with children,1,18,9,female
+7,204.87,Surburban,0,Web,Single,5,54,10,male
+5,489.08,Surburban,1,Web,Single,4,34,2,female
+1,54.58,Urban,0,Brick&Mortar,Married,6,44,2,female
+7,230.55,Urban,1,Brick&Mortar,Single,4,54,5,female
+2,203.35,Rural,0,Web,Single,5,38,7,male
+3,402.33,Surburban,0,Social,Married with children,2,23,1,female
+1,29.99,Rural,0,Web,Single,4,36,8,female
+10,468.27,Urban,1,Social,Married with children,6,47,4,both
+4,144.47,Surburban,0,Brick&Mortar,Married with children,6,45,5,male
+7,124.04,Urban,1,Brick&Mortar,Married,1,18,1,female
+7,70.47,Rural,1,Web,Single,4,36,10,male
+10,183.34,Urban,1,Web,Married,4,31,3,female
+3,191.82,Urban,0,Brick&Mortar,Single,4,54,5,female
+12,113.93,Urban,1,Web,Single,1,31,9,male
+2,210.21,Surburban,0,Brick&Mortar,Married with children,2,30,7,male
+2,404.04,Urban,0,Brick&Mortar,Married with children,6,53,5,male
+5,74.74,Urban,0,Brick&Mortar,Single,6,46,6,male
+11,89.36,Surburban,1,Web,Married,1,19,7,female
+5,62.55,Surburban,0,Web,Single,6,48,3,male
+10,575.04,Urban,1,Social,Married,1,24,8,male
+9,669.18,Surburban,1,Brick&Mortar,Married,5,50,10,both
+1,105.28,Surburban,1,Web,Married with children,3,33,10,male
+9,444.82,Urban,0,Social,Married with children,4,54,2,male
+7,53.47,Urban,0,Brick&Mortar,Single,4,43,8,male
+1,37.55,Surburban,0,Brick&Mortar,Married with children,3,33,3,female
+3,29.99,Urban,0,Brick&Mortar,Married,3,32,10,female
+6,241.84,Surburban,1,Social,Married,4,42,4,both
+7,449.3,Surburban,0,Social,Married with children,5,46,3,both
+12,120.37,Urban,1,Brick&Mortar,Married,4,40,1,male
+1,1049.71,Surburban,1,Social,Married,2,24,6,both
+7,79.02,Surburban,1,Brick&Mortar,Married,1,26,9,male
+9,437.15,Rural,0,Brick&Mortar,Single,3,43,7,male
+2,67.51,Surburban,1,Brick&Mortar,Single,5,53,6,female
+5,57.25,Rural,0,Brick&Mortar,Married with children,4,23,8,male
+2,281.53,Urban,0,Web,Married,3,48,5,both
+2,29.99,Urban,0,Web,Married,6,46,4,male
+3,74.42,Rural,1,Web,Single,4,22,1,female
+8,240.06,Urban,0,Web,Single,5,30,6,female
+10,29.99,Surburban,0,Web,Married with children,2,25,9,female
+11,162.13,Surburban,0,Brick&Mortar,Married with children,3,33,8,male
+2,497.18,Rural,0,Web,Married,3,32,9,female
+6,29.99,Surburban,1,Brick&Mortar,Married with children,5,49,9,female
+9,34.25,Urban,0,Brick&Mortar,Married with children,6,51,3,female
+2,63.81,Surburban,1,Web,Single,4,34,9,female
+10,58.86,Urban,1,Web,Married,1,19,1,male
+12,114.82,Surburban,0,Brick&Mortar,Married with children,1,30,7,male
+3,111.72,Urban,0,Web,Single,4,35,2,female
+8,517.94,Surburban,1,Social,Married with children,3,34,10,male
+4,412.95,Urban,0,Web,Married with children,2,30,6,male
+6,457.75,Urban,0,Brick&Mortar,Married with children,3,19,3,male
+5,233.96,Urban,1,Web,Married,1,39,7,female
+4,411.97,Surburban,0,Social,Married,3,25,2,male
+4,529.12,Surburban,1,Brick&Mortar,Single,3,42,10,male
+2,66.99,Urban,0,Web,Married,3,37,3,female
+4,760.94,Surburban,1,Social,Single,6,55,10,male
+1,397.46,Urban,0,Web,Married with children,4,38,2,both
+7,215.21,Surburban,0,Web,Single,5,41,5,female
+10,417.6,Surburban,0,Brick&Mortar,Married,3,40,7,female
+3,76.38,Urban,1,Brick&Mortar,Married,3,39,4,female
+1,245.35,Urban,0,Brick&Mortar,Married with children,5,50,2,both
+3,132.18,Rural,0,Brick&Mortar,Married with children,6,33,5,male
+11,79.65,Surburban,0,Web,Single,2,32,7,male
+1,30.54,Urban,0,Brick&Mortar,Single,3,42,8,male
+4,29.99,Rural,1,Brick&Mortar,Married,4,40,6,female
+4,596.75,Urban,1,Social,Married with children,5,49,6,male
+2,1227.03,Urban,1,Web,Married,1,19,7,female
+12,227.84,Urban,1,Web,Single,4,40,1,male
+6,42.45,Urban,1,Web,Married with children,1,20,8,female
+10,56.02,Urban,0,Brick&Mortar,Married,3,28,5,male
+8,195.16,Urban,1,Brick&Mortar,Single,4,29,6,female
+7,29.99,Surburban,1,Brick&Mortar,Married,5,26,8,female
+8,178.55,Urban,0,Web,Single,2,30,7,female
+3,455.21,Surburban,1,Brick&Mortar,Married,3,46,1,male
+5,743.36,Urban,1,Web,Married,2,18,10,both
+6,569.91,Rural,1,Brick&Mortar,Married with children,3,23,2,male
+6,38.42,Urban,0,Web,Single,5,47,7,female
+1,391.07,Surburban,0,Brick&Mortar,Married with children,1,24,4,female
+9,60.16,Urban,1,Web,Married,2,26,2,female
+7,322.3,Rural,1,Social,Married,5,24,4,male
+5,318.52,Urban,1,Brick&Mortar,Married with children,4,38,9,female
+3,29.99,Rural,1,Web,Single,5,41,4,male
+10,29.99,Urban,1,Web,Married with children,4,32,4,female
+3,250.41,Surburban,1,Web,Married,5,52,2,both
+2,86.58,Urban,0,Web,Married,5,45,9,female
+6,155.01,Surburban,0,Web,Married with children,6,52,1,male
+2,463.3,Urban,0,Social,Married with children,1,24,4,male
+10,29.99,Urban,0,Web,Married with children,1,24,10,female
+1,29.99,Urban,0,Web,Married with children,2,37,9,female
+1,38.13,Surburban,1,Brick&Mortar,Single,2,19,7,male
+10,29.99,Urban,1,Web,Married with children,4,37,2,female
+2,167.12,Surburban,0,Brick&Mortar,Married with children,1,22,7,male
+7,215.78,Urban,1,Web,Single,5,55,7,female
+8,373.63,Surburban,0,Web,Married,6,31,3,female
+10,303.5,Urban,0,Web,Married,1,53,10,male
+3,189.23,Urban,0,Web,Single,3,40,10,male
+8,88.79,Urban,0,Brick&Mortar,Married with children,6,55,7,female
+9,29.99,Surburban,0,Brick&Mortar,Married,4,36,4,female
+5,99.65,Surburban,0,Web,Married,1,29,2,male
+10,29.99,Urban,1,Web,Married with children,3,36,8,female
+4,428.19,Surburban,0,Social,Married,3,45,7,male
+4,93.04,Surburban,1,Web,Married with children,5,54,2,female
+2,1039.48,Urban,1,Brick&Mortar,Single,2,30,6,female
+4,29.99,Urban,0,Web,Married,3,34,4,female
+6,61.33,Urban,0,Brick&Mortar,Married,3,32,6,female
+6,159.21,Urban,0,Web,Married,2,26,3,female
+10,89.64,Urban,0,Web,Married,4,40,4,male
+2,173.31,Rural,1,Web,Married with children,3,20,6,male
+2,245.99,Surburban,1,Web,Married with children,4,38,10,female
+10,86.21,Urban,0,Brick&Mortar,Married,1,28,7,female
+1,388.18,Urban,1,Brick&Mortar,Single,3,32,3,male
+12,147.93,Urban,0,Brick&Mortar,Single,5,49,10,female
+6,138.72,Urban,0,Web,Married,3,25,6,male
+6,120.88,Urban,0,Web,Single,2,28,8,male
+2,29.99,Urban,0,Brick&Mortar,Married with children,2,54,9,female
+9,618.43,Surburban,1,Social,Married with children,1,21,9,female
+10,202.07,Rural,1,Brick&Mortar,Married with children,2,24,7,female
+5,269.99,Surburban,0,Brick&Mortar,Married with children,1,46,10,both
+6,29.99,Surburban,0,Brick&Mortar,Married,2,20,3,male
+2,271.06,Rural,0,Brick&Mortar,Married,1,22,1,male
+6,108.24,Urban,0,Web,Married,1,18,9,female
+1,431.44,Surburban,1,Brick&Mortar,Single,4,48,7,female
+5,205.73,Urban,1,Social,Single,4,41,4,both
+10,178.03,Surburban,1,Brick&Mortar,Single,6,53,4,male
+11,167.41,Rural,0,Brick&Mortar,Married,2,25,8,male
+6,221.65,Surburban,1,Brick&Mortar,Married with children,1,22,7,male
+8,111.77,Surburban,0,Web,Married with children,5,50,6,male
+9,241.66,Urban,1,Social,Single,5,55,7,male
+7,135.12,Surburban,1,Brick&Mortar,Married,6,50,7,male
+11,348.65,Urban,1,Brick&Mortar,Married,1,54,7,male
+9,139.28,Urban,0,Brick&Mortar,Single,5,50,5,female
+4,401.29,Urban,0,Social,Single,4,31,10,both
+2,206.53,Surburban,0,Social,Married,5,54,8,male
+1,569.73,Surburban,1,Social,Married with children,1,23,2,male
+5,152.31,Rural,0,Brick&Mortar,Single,1,21,10,male
+7,29.99,Rural,0,Brick&Mortar,Married with children,6,55,8,male
+5,90.6,Surburban,0,Web,Married,1,27,7,female
+1,1054.89,Surburban,1,Social,Married,6,45,8,male
+5,52.26,Urban,1,Web,Married,6,44,4,male
+9,29.99,Urban,0,Brick&Mortar,Single,6,47,4,male
+5,109.64,Surburban,0,Web,Single,2,18,9,female
+9,29.99,Urban,1,Brick&Mortar,Single,6,40,1,male
+10,178.64,Surburban,0,Web,Married with children,2,27,8,female
+1,685.25,Urban,1,Social,Single,4,38,5,female
+9,75.28,Urban,0,Web,Married,6,55,1,male
+8,34.18,Surburban,0,Web,Married,4,36,7,female
+5,403.67,Surburban,0,Web,Married,1,29,8,male
+10,274.73,Surburban,0,Brick&Mortar,Married,6,50,7,male
+4,29.99,Surburban,0,Web,Single,2,28,2,female
+5,612.52,Surburban,1,Social,Married,4,36,8,female
+1,821.3,Rural,1,Social,Married,2,22,9,female
+5,223,Surburban,0,Web,Married,3,41,10,male
+6,172.53,Rural,1,Brick&Mortar,Married with children,3,31,7,male
+2,354.52,Surburban,0,Social,Married,2,27,8,female
+12,882.78,Surburban,1,Social,Married,3,43,4,both
+1,285.39,Surburban,0,Social,Married with children,4,36,3,male
+3,82.07,Urban,0,Brick&Mortar,Married with children,5,51,10,female
+10,29.99,Surburban,0,Web,Married with children,1,25,7,male
+3,29.99,Surburban,0,Brick&Mortar,Married,4,32,4,male
+12,88.73,Urban,1,Web,Married with children,2,20,8,male
+10,29.99,Surburban,1,Brick&Mortar,Married,3,42,8,female
+9,166.6,Urban,0,Brick&Mortar,Single,6,51,5,female
+7,223.71,Urban,0,Brick&Mortar,Married,6,53,3,female
+1,252.97,Surburban,1,Brick&Mortar,Single,3,38,7,male
+3,51.11,Surburban,1,Brick&Mortar,Single,2,20,9,female
+1,91.48,Surburban,1,Web,Single,5,45,5,male
+12,212.87,Surburban,1,Web,Married,3,31,8,both
+1,813.13,Rural,1,Web,Married,2,44,1,both
+9,29.99,Surburban,0,Brick&Mortar,Single,3,44,3,male
+8,143.47,Surburban,1,Brick&Mortar,Single,6,23,4,male
+10,40.52,Surburban,0,Web,Married,2,20,1,female
+2,29.99,Urban,0,Brick&Mortar,Single,2,20,6,female
+1,577.17,Urban,1,Social,Single,3,43,9,male
+2,29.99,Surburban,0,Brick&Mortar,Single,5,48,10,male
+3,29.99,Urban,0,Web,Married,6,55,1,female
+3,29.99,Urban,0,Web,Married with children,5,51,8,female
+4,171.25,Rural,0,Web,Single,2,30,6,male
+10,29.99,Rural,1,Brick&Mortar,Single,1,26,2,female
+2,475.49,Surburban,0,Web,Married,3,38,5,female
+12,205.9,Surburban,1,Web,Married with children,4,39,3,both
+12,47.76,Surburban,0,Web,Single,4,43,5,female
+2,30.17,Surburban,1,Brick&Mortar,Single,1,31,8,female
+2,50.09,Rural,0,Web,Married with children,6,46,3,male
+10,255.83,Surburban,0,Brick&Mortar,Single,2,29,3,female
+9,208.46,Surburban,0,Brick&Mortar,Married,6,46,9,female
+7,70.18,Urban,0,Brick&Mortar,Married,1,26,8,female
+2,636.54,Rural,1,Social,Single,3,20,10,both
+11,46.23,Surburban,0,Brick&Mortar,Single,6,26,3,female
+10,56.73,Surburban,0,Brick&Mortar,Single,2,24,5,female
+1,750.69,Urban,1,Web,Married,5,53,8,female
+7,215.52,Urban,0,Web,Married with children,6,47,3,male
+4,155.06,Rural,0,Web,Married with children,1,29,2,female
+4,75,Surburban,0,Web,Married with children,5,29,2,female
+9,223.46,Urban,1,Social,Married with children,1,23,3,male
+3,1175.96,Urban,1,Brick&Mortar,Single,6,39,6,female
+9,339.27,Urban,0,Web,Single,5,48,9,female
+8,117.34,Rural,1,Web,Married,1,31,10,female
+1,395.22,Surburban,0,Brick&Mortar,Married,6,54,4,male
+9,413.86,Surburban,1,Brick&Mortar,Married,1,29,9,both
+10,29.99,Urban,1,Brick&Mortar,Married,3,41,1,female
+3,29.99,Urban,0,Brick&Mortar,Married with children,5,49,1,male
+7,334.87,Urban,1,Social,Single,5,18,4,male
+1,166.26,Urban,0,Web,Married,5,34,9,female
+9,103.98,Surburban,1,Brick&Mortar,Single,3,36,4,female
+10,113.43,Urban,0,Brick&Mortar,Married,2,28,5,female
+5,187.17,Urban,0,Web,Married,4,32,1,male
+1,314.33,Surburban,0,Brick&Mortar,Single,1,25,2,male
+7,190.19,Urban,0,Brick&Mortar,Married,3,38,8,male
+9,29.99,Rural,0,Web,Married,6,48,8,female
+8,29.99,Surburban,1,Brick&Mortar,Single,2,41,7,female
+2,1145.48,Urban,1,Social,Single,2,20,8,female
+4,29.99,Surburban,1,Brick&Mortar,Married,2,25,1,female
+10,75.66,Urban,1,Brick&Mortar,Married,4,51,3,female
+4,46.64,Urban,1,Web,Married with children,4,41,4,female
+3,506.29,Urban,1,Web,Married,2,24,4,male
+12,98.77,Surburban,1,Brick&Mortar,Single,1,20,2,male
+9,253.68,Rural,0,Social,Married with children,1,29,9,female
+1,435.32,Urban,1,Brick&Mortar,Single,2,54,10,male
+6,87.75,Urban,0,Web,Married with children,1,29,1,female
+1,506.82,Surburban,1,Web,Single,3,50,1,female
+8,114.25,Surburban,1,Web,Married,4,42,5,female
+7,29.99,Urban,1,Brick&Mortar,Married,3,43,2,male
+12,104.64,Urban,1,Brick&Mortar,Married,2,22,1,male
+3,572.63,Urban,1,Web,Single,5,46,5,male
+8,301.39,Rural,0,Brick&Mortar,Married with children,2,30,4,female
+3,115.16,Urban,0,Brick&Mortar,Single,3,29,3,female
+7,77.74,Urban,1,Web,Married with children,3,40,2,female
+1,310.09,Urban,0,Social,Single,3,40,10,female
+2,948.24,Surburban,1,Web,Married with children,6,28,1,female
+7,104.16,Urban,1,Web,Married with children,4,30,2,female
+5,29.99,Urban,0,Web,Married,3,35,6,male
+2,188.11,Surburban,0,Web,Single,1,20,2,female
+7,60.02,Surburban,1,Brick&Mortar,Married with children,3,40,1,male
+11,181.07,Surburban,0,Web,Married,5,48,10,female
+5,238.47,Urban,0,Web,Married with children,1,31,7,male
+6,29.99,Surburban,1,Brick&Mortar,Married with children,4,41,8,male
+8,116.31,Urban,0,Brick&Mortar,Married,2,26,5,male
+10,156.56,Urban,1,Web,Single,1,23,5,male
+2,100.18,Urban,0,Brick&Mortar,Married,2,22,6,female
+5,57.75,Surburban,0,Web,Married with children,6,34,2,male
+7,44.43,Surburban,0,Brick&Mortar,Single,4,34,6,female
+1,29.99,Surburban,1,Brick&Mortar,Married with children,2,20,5,male
+7,29.99,Urban,1,Web,Married,6,22,2,male
+9,190.66,Surburban,0,Brick&Mortar,Single,2,29,6,male
+6,732.9,Surburban,1,Web,Married with children,3,28,5,male
+10,30.13,Urban,1,Brick&Mortar,Married with children,4,36,4,male
+6,65,Surburban,1,Brick&Mortar,Married,4,40,5,male
+1,683.62,Urban,1,Social,Single,5,26,3,both
+7,336.81,Surburban,0,Web,Married with children,3,21,6,female
+5,29.99,Surburban,1,Brick&Mortar,Married with children,4,33,3,female
+1,67.99,Surburban,1,Web,Married,2,18,8,male
+7,262.26,Urban,0,Web,Married,6,55,8,male
+9,189.1,Surburban,0,Brick&Mortar,Married,6,46,7,female
+6,62.47,Surburban,0,Web,Married with children,5,52,6,male
+5,904.57,Surburban,1,Social,Married with children,3,43,2,male
+6,225,Surburban,0,Web,Married,3,34,10,female
+1,32.16,Urban,1,Brick&Mortar,Married,5,47,2,male
+9,433.35,Surburban,0,Brick&Mortar,Married with children,4,41,2,both
+7,134.67,Urban,1,Web,Married with children,3,36,2,male
+2,220.84,Urban,0,Brick&Mortar,Single,2,22,9,both
+7,29.99,Urban,1,Web,Single,4,45,4,male
+3,163.35,Surburban,1,Web,Married with children,4,42,5,female
+11,111.72,Urban,1,Web,Single,4,42,10,male
+1,583.05,Urban,1,Social,Married,3,33,9,male
+7,108.07,Urban,1,Brick&Mortar,Married,1,47,6,female
+10,223.88,Surburban,0,Web,Married with children,1,23,4,male
+5,142.32,Surburban,0,Web,Married with children,5,46,3,female
+10,99.92,Urban,0,Brick&Mortar,Single,5,53,7,male
+3,48.33,Surburban,0,Web,Single,3,31,7,female
+11,219.04,Surburban,0,Brick&Mortar,Married with children,3,33,3,both
+10,105.06,Rural,0,Brick&Mortar,Married,4,44,4,female
+6,447.69,Surburban,0,Brick&Mortar,Married with children,6,55,3,female
+11,29.99,Surburban,1,Web,Married with children,1,40,4,female
+4,427.49,Surburban,0,Social,Married with children,5,51,7,female
+8,301.48,Surburban,0,Social,Married with children,2,21,10,male
+1,198.82,Urban,0,Web,Married with children,5,54,2,female
+10,120.96,Surburban,1,Brick&Mortar,Married,2,31,3,female
+8,342.9,Rural,0,Web,Married with children,4,23,5,male
+10,606.05,Surburban,1,Social,Single,2,18,4,both
+7,257.63,Urban,1,Social,Married with children,4,40,7,female
+1,195.55,Surburban,0,Web,Single,5,55,6,male
+9,125.09,Urban,1,Brick&Mortar,Single,6,52,7,male
+8,282.65,Surburban,0,Social,Married with children,3,37,9,male
+4,153.19,Urban,0,Web,Married with children,1,36,5,male
+5,313.37,Urban,0,Web,Married with children,3,43,6,both
+9,341.01,Urban,0,Social,Married,2,41,5,female
+9,459.02,Urban,0,Social,Single,6,53,8,female
+1,295.82,Urban,1,Social,Single,5,49,2,female
+8,29.99,Surburban,1,Brick&Mortar,Married,6,45,7,female
+6,77.32,Rural,0,Web,Single,6,49,8,male
+10,82.15,Urban,1,Brick&Mortar,Single,6,38,3,female
+4,185.14,Urban,0,Web,Single,2,24,7,male
+6,260.59,Urban,1,Web,Married,3,37,4,female
+11,128.43,Urban,1,Brick&Mortar,Single,5,44,6,male
+9,29.99,Surburban,0,Brick&Mortar,Single,4,36,2,male
+3,537.04,Urban,1,Brick&Mortar,Married with children,2,50,10,female
+11,130.43,Surburban,1,Web,Married,5,52,9,female
+2,128.35,Urban,0,Brick&Mortar,Single,1,30,3,female
+10,29.99,Surburban,1,Brick&Mortar,Married with children,4,40,7,female
+3,35.92,Urban,1,Brick&Mortar,Single,3,36,5,male
+5,434.32,Urban,1,Brick&Mortar,Married,1,22,10,male
+10,74.18,Surburban,1,Brick&Mortar,Married with children,2,29,7,female
+11,490.3,Surburban,0,Social,Single,3,27,1,male
+6,168.78,Surburban,1,Brick&Mortar,Single,3,36,7,female
+2,383.47,Surburban,1,Brick&Mortar,Married with children,6,53,9,male
+1,110.05,Surburban,0,Brick&Mortar,Married,3,51,2,female
+2,89.46,Surburban,0,Web,Married,3,26,7,female
+5,84.88,Surburban,1,Brick&Mortar,Married,1,25,7,male
+2,29.99,Surburban,1,Web,Married with children,3,39,10,male
+1,582.91,Rural,1,Brick&Mortar,Married with children,6,50,10,female
+2,546.5,Urban,1,Social,Single,2,19,10,both
+11,29.99,Surburban,1,Brick&Mortar,Single,1,28,8,female
+10,29.99,Surburban,1,Web,Single,4,43,8,female
+6,579.9,Urban,1,Social,Married with children,1,28,6,male
+5,604.9,Rural,1,Brick&Mortar,Married,6,54,4,both
+9,112.05,Surburban,1,Web,Single,2,19,6,female
+9,35.49,Surburban,1,Web,Married with children,1,37,4,male
+11,51.33,Surburban,1,Brick&Mortar,Married with children,2,27,9,female
+9,375.91,Urban,0,Brick&Mortar,Married with children,5,54,10,male
+8,163.84,Surburban,1,Web,Single,1,48,4,male
+5,144.89,Urban,0,Web,Married with children,1,20,7,male
+4,535.4,Rural,1,Social,Married with children,3,30,5,both
+11,144.12,Urban,1,Brick&Mortar,Married,5,48,2,male
+11,83.48,Urban,1,Web,Married,1,23,7,male
+8,82.25,Surburban,0,Brick&Mortar,Married with children,5,32,6,male
+8,50.16,Surburban,1,Web,Married,6,47,4,female
+10,29.99,Urban,0,Web,Married,1,25,9,male
+1,29.99,Urban,0,Brick&Mortar,Married,2,29,8,male
+4,65.2,Surburban,0,Brick&Mortar,Married with children,3,43,4,male
+10,154.71,Urban,1,Web,Married,5,47,4,female
+4,65.23,Urban,0,Brick&Mortar,Married,6,55,2,female
+10,29.99,Urban,0,Brick&Mortar,Married with children,2,30,9,male
+9,116.2,Urban,0,Brick&Mortar,Married with children,3,42,8,male
+1,806.91,Surburban,1,Social,Married,2,36,7,both
+9,93.76,Surburban,1,Brick&Mortar,Single,2,49,2,male
+2,612.97,Urban,1,Social,Married,4,55,3,both
+7,64.92,Urban,1,Web,Married with children,4,33,10,male
+12,54.87,Surburban,1,Brick&Mortar,Single,6,48,8,female
+9,257.45,Urban,0,Web,Married,3,38,7,female
+2,468.85,Urban,0,Brick&Mortar,Married with children,1,52,10,male
+4,194.19,Surburban,1,Brick&Mortar,Married,5,54,10,male
+9,206.07,Surburban,0,Brick&Mortar,Married with children,2,26,3,female
+10,47.1,Rural,0,Brick&Mortar,Single,6,55,7,male
+4,29.99,Urban,0,Web,Single,1,49,10,female
+4,141.78,Surburban,0,Brick&Mortar,Married,1,29,2,female
+2,42.77,Surburban,0,Web,Married,3,36,4,male
+10,83.71,Surburban,1,Web,Single,4,40,4,male
+12,107.54,Surburban,0,Brick&Mortar,Married with children,3,36,1,female
+2,250.55,Urban,0,Brick&Mortar,Married,3,43,1,both
+10,67.09,Surburban,0,Brick&Mortar,Single,4,43,10,male
+1,227.59,Surburban,0,Brick&Mortar,Married,2,47,2,both
+9,276.87,Urban,0,Web,Married with children,1,28,6,male
+8,194.71,Surburban,0,Brick&Mortar,Single,5,52,3,female
+7,29.99,Surburban,0,Web,Single,6,49,8,female
+1,171.26,Surburban,1,Web,Married,5,47,6,male
+11,259.8,Urban,1,Web,Single,4,35,2,female
+10,204.91,Rural,1,Brick&Mortar,Married,1,23,7,female
+1,1009.54,Rural,1,Web,Married,2,18,10,both
+2,29.99,Urban,0,Brick&Mortar,Married with children,3,36,1,male
+9,314.29,Surburban,0,Brick&Mortar,Single,4,37,5,female
+1,771.77,Rural,1,Brick&Mortar,Single,2,23,5,both
+12,104.96,Urban,0,Web,Married with children,1,51,4,male
+6,145.62,Urban,0,Web,Single,4,25,7,male
+2,135.96,Surburban,0,Web,Married with children,4,29,10,female
+8,29.99,Urban,0,Brick&Mortar,Married,6,51,8,male
+2,230.09,Urban,1,Brick&Mortar,Single,1,47,8,female
+2,123.12,Surburban,0,Web,Married,6,49,7,male
+1,391.73,Urban,0,Brick&Mortar,Married,4,18,9,female
+1,317.7,Surburban,0,Web,Married,3,24,7,female
+6,234.61,Urban,1,Web,Married,1,25,10,male
+6,157.22,Rural,0,Brick&Mortar,Married with children,3,29,10,female
+7,104.19,Urban,1,Web,Married with children,6,55,3,female
+9,202.9,Urban,0,Brick&Mortar,Single,3,33,5,female
+10,103.38,Surburban,0,Brick&Mortar,Single,5,49,6,male
+9,40.9,Surburban,0,Brick&Mortar,Married with children,2,23,1,female
+9,84.56,Surburban,0,Brick&Mortar,Married,1,31,6,female
+7,34.4,Urban,0,Brick&Mortar,Married,5,50,3,female
+7,168.43,Urban,1,Web,Single,2,26,4,male
+1,877.02,Urban,1,Web,Married,5,23,6,female
+2,36.43,Urban,1,Web,Single,2,26,6,female
+10,107.23,Surburban,1,Brick&Mortar,Married with children,2,26,9,male
+11,316.23,Urban,1,Brick&Mortar,Married with children,5,44,5,male
+10,338.08,Rural,1,Web,Married,3,38,1,both
+1,472.87,Urban,0,Web,Married,4,33,7,male
+6,216.59,Surburban,0,Web,Married with children,1,22,3,male
+2,38.49,Surburban,1,Brick&Mortar,Single,6,50,2,female
+1,129.01,Urban,0,Brick&Mortar,Married with children,4,33,10,female
+1,189.48,Urban,0,Web,Married with children,6,43,5,female
+7,566.67,Surburban,1,Web,Single,4,33,4,male
+10,30.46,Surburban,1,Brick&Mortar,Married,1,21,8,male
+9,507.79,Urban,1,Web,Married,4,31,6,female
+1,1364.92,Urban,1,Web,Single,1,43,4,both
+9,418.04,Urban,0,Web,Married,6,54,9,female
+10,202.17,Urban,0,Brick&Mortar,Married with children,2,26,3,female
+11,29.99,Surburban,0,Brick&Mortar,Married with children,1,26,9,female
+10,42.48,Urban,0,Brick&Mortar,Married with children,1,29,10,male
+11,226.66,Surburban,1,Brick&Mortar,Married,3,55,1,both
+3,493.2,Urban,0,Web,Married with children,1,25,1,both
+12,349.55,Rural,0,Web,Married with children,4,44,7,female
+4,29.99,Rural,0,Web,Single,3,51,9,male
+9,29.99,Urban,0,Brick&Mortar,Married,1,35,8,male
+3,188.58,Urban,0,Brick&Mortar,Married,1,25,4,male
+8,401.14,Urban,0,Social,Single,2,23,8,male
+2,184.92,Surburban,1,Brick&Mortar,Married with children,2,26,5,female
+4,72.79,Surburban,1,Web,Married,5,28,7,male
+4,312.68,Surburban,0,Brick&Mortar,Married,2,18,10,male
+9,420.86,Urban,0,Brick&Mortar,Married with children,4,39,2,male
+7,46.35,Surburban,1,Brick&Mortar,Married,6,33,9,female
+4,125.07,Urban,0,Brick&Mortar,Married with children,2,21,8,male
+2,1035.42,Surburban,1,Web,Single,6,48,6,male
+9,172.77,Surburban,1,Web,Married with children,3,37,9,male
+8,371.78,Urban,0,Social,Single,4,33,10,both
+3,138.72,Rural,1,Brick&Mortar,Married with children,6,47,4,female
+7,54.51,Surburban,1,Brick&Mortar,Married,1,21,3,male
+4,111.26,Urban,1,Brick&Mortar,Married,3,32,1,female
+6,170.3,Surburban,0,Brick&Mortar,Single,2,43,2,female
+7,46.72,Surburban,0,Brick&Mortar,Single,4,41,4,female
+5,231.25,Urban,0,Social,Married,1,21,2,female
+8,34.8,Surburban,1,Brick&Mortar,Married,4,33,9,female
+6,122.61,Urban,1,Brick&Mortar,Married with children,5,52,3,female
+4,275.88,Rural,0,Brick&Mortar,Married,3,31,4,male
+7,35.64,Rural,1,Brick&Mortar,Single,6,49,3,male
+3,167.28,Urban,0,Web,Married with children,3,26,4,female
+2,303.45,Surburban,0,Brick&Mortar,Married with children,6,47,8,female
+11,131.76,Surburban,1,Web,Married,2,28,9,female
+3,305.6,Surburban,1,Brick&Mortar,Married,6,46,7,male
+1,958.36,Urban,1,Web,Married,6,18,2,both
+2,29.99,Surburban,1,Web,Married,2,18,1,male
+5,270.24,Urban,0,Social,Married with children,6,51,6,female
+2,393.69,Urban,1,Brick&Mortar,Married,6,48,5,male
+1,791.28,Urban,1,Web,Married with children,1,46,6,both
+2,452.26,Surburban,1,Brick&Mortar,Single,3,40,1,female
+2,179.69,Rural,1,Brick&Mortar,Married with children,6,47,6,male
+2,692.66,Urban,1,Social,Married with children,4,43,4,both
+1,30.11,Urban,1,Brick&Mortar,Single,4,35,7,male
+6,59.38,Rural,1,Brick&Mortar,Married with children,1,35,5,male
+5,164.85,Surburban,0,Brick&Mortar,Single,4,37,3,male
+6,167.17,Rural,0,Web,Married,3,28,1,female
+6,29.99,Surburban,1,Web,Married,1,53,5,female
+2,181.74,Surburban,0,Web,Married with children,5,50,1,female
+3,235.95,Surburban,0,Brick&Mortar,Married with children,5,24,9,female
+3,43.45,Urban,0,Web,Single,2,23,8,female
+2,657.52,Urban,1,Brick&Mortar,Single,6,50,4,male
+2,126.65,Surburban,0,Web,Married with children,6,44,3,female
+9,410.44,Urban,0,Social,Single,6,54,10,both
+5,169.78,Urban,1,Brick&Mortar,Married with children,3,31,10,female
+11,231.06,Rural,1,Social,Married with children,2,46,2,male
+1,383.86,Rural,1,Web,Married with children,2,27,8,male
+2,59.98,Surburban,1,Web,Married,1,30,9,female
+7,161.15,Urban,0,Brick&Mortar,Married with children,5,30,3,female
+4,202.03,Rural,1,Brick&Mortar,Married with children,5,49,10,female
+12,29.99,Surburban,1,Web,Single,2,27,9,male
+12,68.64,Urban,0,Web,Married with children,1,19,7,female
+1,650.18,Urban,1,Social,Single,5,51,9,female
+7,1044.25,Surburban,1,Social,Married,3,32,5,male
+6,893.57,Urban,1,Web,Single,1,29,10,male
+8,30.98,Surburban,0,Brick&Mortar,Married,1,21,9,male
+5,188.17,Rural,1,Web,Married,4,39,6,male
+1,239.33,Surburban,0,Brick&Mortar,Married,4,42,5,female
+10,318.11,Urban,0,Web,Single,6,53,10,female
+12,98.31,Urban,1,Brick&Mortar,Married,3,37,4,male
+11,552.21,Urban,1,Social,Single,6,47,2,male
+7,63.88,Urban,1,Web,Married,6,49,1,female
+10,182.51,Surburban,0,Brick&Mortar,Single,1,22,2,female
+2,173.9,Urban,1,Web,Married with children,2,34,8,male
+7,257.4,Surburban,0,Web,Married with children,1,21,10,female
+11,101.88,Surburban,0,Brick&Mortar,Married with children,2,26,2,male
+1,79.67,Urban,1,Web,Married,2,29,4,female
+9,42.22,Urban,0,Brick&Mortar,Married with children,2,28,1,male
+9,523.24,Urban,1,Social,Married with children,2,55,10,male
+9,72.73,Surburban,0,Brick&Mortar,Single,5,54,8,male
+1,132.8,Surburban,0,Brick&Mortar,Married,4,46,1,male
+1,1073.12,Surburban,1,Social,Married with children,4,18,7,both
+6,469.99,Rural,0,Brick&Mortar,Married with children,3,41,1,female
+9,29.99,Urban,0,Brick&Mortar,Married with children,4,37,10,female
+1,122.69,Surburban,0,Web,Married,3,25,10,female
+1,29.99,Rural,0,Brick&Mortar,Married,1,20,3,male
+11,114.48,Urban,1,Web,Single,5,54,9,female
+9,145.36,Urban,1,Web,Married,4,32,2,female
+8,173.26,Urban,0,Brick&Mortar,Married,1,55,6,female
+1,266.08,Urban,1,Web,Single,3,37,4,male
+4,857.03,Surburban,1,Web,Single,2,35,10,female
+4,173.76,Rural,0,Web,Married,6,52,5,male
+4,29.99,Surburban,1,Web,Single,1,41,10,male
+3,98.94,Urban,1,Web,Married,6,52,3,female
+11,205.97,Urban,1,Brick&Mortar,Single,4,36,1,female
+5,138.66,Surburban,1,Web,Married with children,2,19,2,female
+3,178.01,Rural,0,Web,Single,4,41,1,female
+3,351.29,Surburban,0,Brick&Mortar,Single,2,50,1,male
+2,108.57,Urban,1,Web,Married with children,3,41,10,female
+5,554.48,Urban,1,Social,Single,1,20,2,both
+8,29.99,Surburban,1,Brick&Mortar,Married,5,50,4,male
+1,29.99,Urban,0,Web,Single,5,53,10,male
+11,254.36,Surburban,0,Web,Single,1,20,9,male
+12,278.31,Surburban,1,Web,Married,4,34,7,female
+8,117.96,Surburban,1,Brick&Mortar,Single,3,34,5,male
+9,445.5,Surburban,0,Brick&Mortar,Single,5,50,5,female
+8,268.29,Surburban,0,Social,Married with children,3,35,3,female
+11,200.58,Urban,0,Web,Married,5,45,9,male
+12,49.55,Rural,0,Web,Single,2,45,1,female
+3,717.6,Urban,1,Brick&Mortar,Married,1,27,3,female
+1,393.42,Urban,0,Brick&Mortar,Married,6,47,6,male
+5,29.99,Urban,1,Brick&Mortar,Single,2,24,7,male
+8,179.57,Surburban,0,Brick&Mortar,Married,6,23,3,male
+11,64.82,Urban,1,Brick&Mortar,Married with children,6,46,4,male
+8,122.78,Urban,0,Brick&Mortar,Married with children,2,34,3,female
+9,263.65,Rural,1,Brick&Mortar,Married with children,2,35,3,female
+1,1075.99,Surburban,1,Brick&Mortar,Married with children,2,24,10,female
+1,280.13,Urban,0,Social,Single,5,51,3,male
+6,117.2,Surburban,0,Brick&Mortar,Married with children,1,28,7,male
+1,136.37,Surburban,1,Web,Married,1,30,7,male
+11,35.09,Surburban,1,Brick&Mortar,Single,4,41,5,male
+5,362.71,Urban,0,Web,Married with children,6,48,9,female
+4,41.43,Rural,1,Brick&Mortar,Married,4,44,5,female
+11,135.26,Surburban,1,Brick&Mortar,Married,5,26,6,female
+10,126.26,Urban,1,Web,Married,2,30,7,female
+9,38.38,Surburban,0,Brick&Mortar,Single,2,24,1,male
+6,29.99,Urban,1,Web,Married,1,31,4,female
+9,129.66,Rural,1,Web,Married,1,55,4,female
+3,156.32,Surburban,0,Web,Married,3,42,6,male
+9,29.99,Urban,0,Web,Married with children,2,26,6,female
+4,524.38,Rural,1,Web,Single,5,32,10,female
+5,503.02,Surburban,1,Social,Married,4,55,2,male
+9,243.92,Surburban,0,Brick&Mortar,Married with children,1,19,5,both
+1,736.39,Surburban,1,Brick&Mortar,Married,3,39,8,female
+3,538.32,Surburban,1,Social,Married,6,53,2,male
+4,108.7,Surburban,0,Brick&Mortar,Married with children,2,38,8,female
+10,239,Surburban,0,Web,Married with children,6,53,7,female
+1,351.73,Rural,1,Brick&Mortar,Married,1,24,5,female
+9,234.79,Urban,0,Social,Married with children,1,20,7,male
+5,96.08,Surburban,0,Web,Single,2,24,2,male
+5,34.2,Urban,1,Web,Single,1,28,5,male
+10,29.99,Urban,1,Web,Married with children,6,55,7,male
+1,29.99,Urban,1,Brick&Mortar,Married,6,53,7,female
+7,350.7,Surburban,0,Web,Single,4,40,2,female
+7,285.43,Surburban,0,Web,Single,1,30,9,female
+6,497.89,Surburban,1,Web,Married,5,51,4,female
+3,259.3,Urban,1,Web,Married,2,21,7,female
+2,244.33,Rural,0,Brick&Mortar,Single,2,26,7,both
+10,59.78,Rural,1,Brick&Mortar,Married with children,6,53,6,female
