@@ -1,0 +1,92 @@
+body {
+      font: 400 15px Lato, sans-serif;
+      line-height: 1.8;
+      color: #818181;
+  }
+table {
+    width:100%;
+    text-align: center;
+}
+  .container-fluid {
+      padding: 60px 50px;
+  }
+  .bg-grey {
+      background-color: #abb7b8;
+  }
+  .carousel-control.right, .carousel-control.left {
+      background-color: #abb7b8;
+      color: white;
+  }
+  .carousel-indicators li {
+      border-color: #abb7b8;
+  }
+  .carousel-indicators li.active {
+      background-color: #abb7b8;
+  }
+  .navbar {
+      margin-bottom: 0;
+      background-color: #abb7b8;
+      z-index: 9999;
+      border: 0;
+      font-size: 12px !important;
+      line-height: 1.42857143 !important;
+      letter-spacing: 4px;
+      border-radius: 0;
+      font-family: Montserrat, sans-serif;
+  }
+  .navbar li a, .navbar .navbar-brand {
+      color: #fff !important;
+  }
+  .navbar-nav li a:hover, .navbar-nav li.active a {
+      color: #abb7b8 !important;
+      background-color: #fff !important;
+  }
+  .navbar-default .navbar-toggle {
+      border-color: transparent;
+      color: #fff !important;
+  }
+
+/* Container for flexboxes */
+section {
+  display: -webkit-flex;
+  display: flex;
+}
+
+/* Style the navigation menu */
+nav1 {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  background: white;
+  padding: 200px;
+}
+
+/* Style the list inside the menu */
+nav1 ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Style the content */
+detail {
+  -webkit-flex: 3;
+  -ms-flex: 3;
+  flex: 3;
+  background-color: white;
+  padding: 100px;
+}
+
+/* Style the navigation menu */
+login {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  background: #abb7b8;
+  padding: 200px;
+  text-align:center;
+  font: 400 25px Lato, sans-serif;
+  line-height: 1.8;
+  color: #818181;
+}
+
+ 
